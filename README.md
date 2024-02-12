@@ -1,5 +1,5 @@
 # Istanbul-Customer-Shopping-(2021-2023)-Analysis
-![](Istanbul_Customer_Shopping_image.jpg)
+![](images/Istanbul_Customer_Shopping_image.jpg)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -78,12 +78,12 @@ Through meticulous analysis and interpretation of the dataset, the project antic
 **Raw Data**
 - Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](customer_shopping_data.csv).
 
-![](Raw_Data_Image.png)
+![](images/Raw_Data_Image.png)
 
 **Final Power Query Editor screenshot**
 - Below is a screenshot of a part of the cleaned data in power query editor. You can access the full Power BI project document [here](https://github.com/Ugochukwuodinaka/Istanbul-Customer-Shopping-Analysis/blob/main/ISTANBUL%20CUSTOMER%20SHOPPING%20ANALYSIS%20(2021%20-%202023).pbix).
 
-![](Final_Power_Query_Editor_Screenshot.png)
+![](images/Final_Power_Query_Editor_Screenshot.png)
 
 
 ## Data Modelling
@@ -91,7 +91,7 @@ No data modelling was required since we need just a table for the analysis.
 
 ## Visualization in Power BI:
 #### Report 1
-![](Istanbul_Customer_Shopping_(2021-2023)_Analysis_Dashboard.jpg)
+![](images/Istanbul_Customer_Shopping_(2021-2023)_Analysis_Dashboard.jpg)
 
 ### Project Analysis:
 From the analysis, i made the Key Performance findings below:
@@ -104,7 +104,7 @@ From the analysis, i made the Key Performance findings below:
 - The Average Revenue By Customer is __₺2,529__.
 - The Average Age of Customers is __43__.
 
-- <img src="Total_Revenue_By_Category.jpg" width="250">
+- <img src="images/Total_Revenue_By_Category.jpg" width="250">
 - **The Total Revenue By Product Category:**
 - In this analysis, The provided total revenue by product category indicates a clear hierarchy in terms of revenue generation within the shopping dataset. Here's a breakdown of the top revenue-generating categories:
 - __Clothing Tops: $113,996,791__
@@ -135,7 +135,7 @@ From the analysis, i made the Key Performance findings below:
 - Overall, the variation in product categories contributing to the total revenue reflects the diverse preferences, interests, and cultural influences shaping the Turkish shopping landscape. 
 
 
-- <img src="Total_Revenue_By_Shopping_Mall.jpg" width="250">
+- <img src="images/Total_Revenue_By_Shopping_Mall.jpg" width="250">
 - **The Total Revenue By Shopping Mall Location:**
 - In this my analysis, the total revenue breakdown by shopping mall provides valuable insights into consumer spending patterns and shopping behaviors across different retail destinations in Istanbul. Each mall represents a unique shopping environment, catering to diverse demographics and preferences within the local market.
 - __Mall of Istanbul: ₺50,872,482__
@@ -161,7 +161,7 @@ From the analysis, i made the Key Performance findings below:
     family-friendly amenities, Cevahir AVM caters to a broad demographic, including families, tourists, and budget-conscious shoppers.
 
 
-- <img src="Payment_Method.jpg" width="250">
+- <img src="images/Payment_Method.jpg" width="250">
 - **Total Revenue By Payment Methods & an Analysis of Variations in Istanbul Shopping Behavior Based on Payment Methods:**
 - Here, the breakdown of total revenue by payment method provides valuable insights into the prevalent payment preferences and behaviors of consumers in Istanbul. A deep understanding of these variations can help retailers and businesses tailor their strategies to accommodate different payment methods and enhance the overall shopping experience for customers.
 - __Payment by Cash: ₺112,832,243 (44.86%)__
@@ -194,7 +194,7 @@ From the analysis, i made the Key Performance findings below:
   - __Debit Card Payments:__ Consumers opting for debit card payments value immediate funds access, security, and budget management.
 
 
-- <img src="Shopping_By_Gender.jpg" width="250">
+- <img src="images/Shopping_By_Gender.jpg" width="250">
 - **Total Revenue By Gender Shopping & an Analysis of Variations in Istanbul Shopping Behavior Based on Gender:**
 - In my analysis, the breakdown of total revenue by gender provides valuable insights into the shopping behavior and preferences of consumers in Istanbul, segmented by gender. 
 - __Shopping by Females: ₺150,207,136 (59.72%)__
@@ -222,7 +222,7 @@ From the analysis, i made the Key Performance findings below:
   - __Household and Lifestyle:__ Females may lead in purchases related to household items, groceries, and family-oriented products, reflecting their roles as caregivers and household decision-makers.
 
 
-- <img src="Total_Revenue_By_AgeBand_%26_Product_Category.jpg" width="500">
+- <img src="images/Total_Revenue_By_AgeBand_%26_Product_Category.jpg" width="500">
 - **Total Revenue By Age Band and Product Category:**
 - In this analysis, the breakdown of total revenue by age band and product category provides valuable insights into the shopping behaviors and preferences of different demographic groups in Istanbul. By examining correlations between demographic factors such as age band, gender, and product category in relation to total revenue, we can gain a deeper understanding of consumer trends and tailor marketing strategies accordingly.
 - __Young Adults:__ Young adults emerge as significant contributors to total revenue, particularly in categories such as clothing, shoes, and technology. This demographic group, typically aged between 20 to 39 years old, represents a key market segment with diverse preferences and purchasing power. Young adults are likely to prioritize fashion trends, technological gadgets, and lifestyle products, driving sales in these categories.
@@ -231,7 +231,7 @@ From the analysis, i made the Key Performance findings below:
 - __Teenagers:__ Teenagers represent a smaller but still significant segment of total revenue, with preferences skewed towards clothing, shoes, and technology. This demographic, typically aged between 13 to 19 years old, represents a youthful and trend-conscious consumer group with disposable income from allowances or part-time jobs. Teenagers are likely to gravitate towards fashion-forward clothing, trendy footwear, and the latest tech gadgets, driving sales in these categories. 
 
 
-- <img src="Total_Revenue_By_Gender_%26_AgeBand.jpg" width="350">
+- <img src="images/Total_Revenue_By_Gender_%26_AgeBand.jpg" width="350">
 - **Total Revenue By Age Band and Gender:**
 - In my analysis, the breakdown of total revenue by age band and gender provides valuable insights into the shopping trends and patterns across different demographic groups in Istanbul. By examining the total revenue generated by each age band and gender, we can identify key drivers of consumer spending and tailor marketing strategies to effectively target specific demographic segments.
 - __Young Adult Females:__ Young adult females emerge as the top contributors to total revenue, indicating their significant purchasing power and influence in the Istanbul retail landscape. This demographic group, typically aged between 20 to 39 years old, demonstrates a strong preference for fashion, beauty, and lifestyle products. Young adult females are likely to prioritize trendy clothing, cosmetics, and accessories, driving sales in these categories. 
@@ -243,7 +243,7 @@ From the analysis, i made the Key Performance findings below:
 
 - __Insights into Istanbul Shopping Trends and Patterns:__ The dominance of young adult females in total revenue highlights their significant influence in shaping fashion trends, beauty preferences, and lifestyle choices in the Istanbul retail landscape. Mid-aged adult females and males also play crucial roles in driving total revenue, with preferences for quality, comfort, and practicality in their shopping decisions. Young adult males exhibit a tech-savvy and fashion-forward shopping behavior, contributing to total revenue through purchases of gadgets, streetwear, and entertainment products. Old adults continue to participate in the consumer market, contributing to total revenue across various categories, albeit with more conservative preferences and spending habits. Female and male teenagers represent a dynamic and influential segment of total revenue, with interests in fashion, technology, and entertainment products, underscoring the importance of engaging with this demographic through targeted marketing strategies and engaging shopping experiences.
 
-- <img src="Total_Revenue_By_Shopping_Month.jpg" width="500">
+- <img src="images/Total_Revenue_By_Shopping_Month.jpg" width="500">
 - **Total Revenue By Shopping Month Trend:**
 - In my analysis, the total revenue by shopping month trend provides insights into the variations in customer behavior and spending patterns throughout the year in Istanbul. 
 - __January (Top Revenue):__ January emerges as the month with the highest total revenue, signaling strong consumer spending at the beginning of the year. This may be attributed to factors such as New Year's sales, winter fashion purchases, and post-holiday shopping. 
