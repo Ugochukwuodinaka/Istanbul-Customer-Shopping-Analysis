@@ -8,7 +8,7 @@
 - [Visualization in Power BI](#visualization-in-power-bi)
 - [Project Analysis](#project-analysis)
 - [Visuals in Power BI Report](#visuals-in-power-bi-report)
-- [Recommendations On How To Improve Customer Shopping Experience in Istanbul To Attract More Local and international Patronage](#recommendations-on-how-to-improve-customer-shopping-experience-in-istanbul-to-attract-more-local-and-international-patronage)
+- [Recommendations On Improving Customer Shopping Experience in Istanbul To Attract More Local and international Patronage](#recommendations-on-improving-customer-shopping-experience-in-istanbul-to-attract-more-local-and-international-patronage)
 
 
 ## Project Overview
@@ -264,7 +264,7 @@ From the analysis, i made the Key Performance findings below:
 ## Visuals in Power BI Report:
 You can view and interact with this dashboard report on Istanbul Customer Shopping (2021-2023) Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiZjBmMDVmMTgtNzQ1ZC00NjAxLWI5YmItOWVhMzliMDA0YzhkIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
 
-## Recommendations On How To Improve Customer Shopping Experience in Istanbul To Attract More Local and international Patronage
+## Recommendations On Improving Customer Shopping Experience in Istanbul To Attract More Local and international Patronage
 - __Diverse Retail Offerings:__ Ensure a diverse range of retail offerings that cater to different tastes, preferences, and budgets. This includes a mix of local brands, international retailers, artisanal shops, and specialty stores, offering a unique shopping experience for customers.
 - __Enhanced Customer Service:__ Focus on providing exceptional customer service to create positive shopping experiences. Train staff to be knowledgeable, helpful, and attentive to customers' needs. Offer multilingual support to accommodate international visitors and ensure clear communication.
 - __Innovative Technology:__ Integrate innovative technology solutions to streamline the shopping process and enhance convenience. Implement mobile payment options, self-checkout kiosks, and digital signage to improve efficiency and ease of transaction for customers.
