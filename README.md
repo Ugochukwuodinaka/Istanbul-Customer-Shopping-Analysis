@@ -154,13 +154,13 @@ From the analysis, i made the Key Performance findings below:
 - <img src="Payment_Method.jpg" width="250">
 - **Total Revenue By Payment Methods & an Analysis of Variations in Istanbul Shopping Behavior Based on Payment Methods:**
 - Here, the breakdown of total revenue by payment method provides valuable insights into the prevalent payment preferences and behaviors of consumers in Istanbul. A deep understanding of these variations can help retailers and businesses tailor their strategies to accommodate different payment methods and enhance the overall shopping experience for customers.
-- __Payment by Cash: ₺112,832,243__
+- __Payment by Cash: ₺112,832,243 (44.86%)__
   - Payment by cash emerges as the dominant payment method, indicating a significant proportion of consumers in Istanbul prefer to conduct transactions using physical currency. This 
     preference for cash payments may be influenced by several factors:
     - __Cultural Norms:__ Cash payments align with traditional Turkish customs and cultural norms, where using physical currency is often favored for transactions.
     - __Privacy and Anonymity:__ Cash transactions provide a level of anonymity and privacy for consumers, particularly those who value discretion in their financial transactions.
     - __Financial Control:__ Some consumers may prefer cash payments as a way to manage their spending and avoid accumulating debt, as transactions are limited to available funds.
-- __Credit Card: ₺88,077,124__
+- __Credit Card: ₺88,077,124 (35.02%)__
   - Credit card transactions rank second in total revenue, highlighting the popularity and widespread adoption of electronic payment methods among Istanbul consumers. The preference for 
     credit card payments may be driven by the following factors:
     - __Convenience:__ Credit cards offer a convenient and secure payment option, allowing consumers to make purchases without carrying physical cash.
@@ -168,7 +168,7 @@ From the analysis, i made the Key Performance findings below:
       perks.
     - __Financial Flexibility:__ Credit cards provide consumers with the flexibility to pay for purchases over time through installment plans or revolving credit lines, enabling them to 
       manage their finances more effectively.
-- __Debit Card: ₺50,596,427__
+- __Debit Card: ₺50,596,427 (20.12%)__
   - Debit card transactions represent another significant portion of total revenue, indicating the popularity of using bank-issued debit cards for payments among Istanbul consumers. The 
     preference for debit card payments may be influenced by the following factors:
     - __Immediate Funds Access:__ Debit cards allow consumers to access funds directly from their bank accounts, providing a convenient and efficient payment option for everyday 
@@ -183,3 +183,30 @@ From the analysis, i made the Key Performance findings below:
   - __Credit Card Payments:__ Consumers using credit cards may seek convenience, rewards, and financial flexibility. 
   - __Debit Card Payments:__ Consumers opting for debit card payments value immediate funds access, security, and budget management.
 
+
+- <img src="Shopping_By_Gender.jpg" width="250">
+- **Total Revenue By Gender Shopping & an Analysis of Variations in Istanbul Shopping Behavior Based on Gender:**
+- In this analysis, the breakdown of total revenue by gender provides valuable insights into the shopping behavior and preferences of consumers in Istanbul, segmented by gender. 
+- __Shopping by Females: ₺150,207,136 (59.72%)__
+  - Females emerge as the top contributors to total revenue, indicating their significant purchasing power and influence in the Istanbul retail landscape. The dominance of female 
+    shoppers may be influenced by several factors:
+    - __Fashion and Beauty Preferences:__ Females often prioritize fashion, beauty, and personal care products, driving sales in these categories. 
+    - __Lifestyle and Household Purchases:__ Female consumers may also lead in purchases related to household items, groceries, and family-oriented products, reflecting their roles as 
+      caregivers and decision-makers in household spending.
+    - __Shopping Habits and Frequency:__ Females tend to engage in shopping activities more frequently than males, making them a key demographic for retailers to target with promotional 
+      offers, loyalty programs, and personalized marketing campaigns.
+
+- __Shopping by Males: ₺150,596,427 (40.28%)__
+  - Males represent a significant portion of total revenue, although slightly lower than females, indicating their importance as a consumer segment in the Istanbul market. The shopping 
+    behavior of males may be influenced by various factors:
+    - __Technology and Electronics:__ Males often show a preference for technology gadgets, electronics, and gaming products, driving sales in these categories. Retailers can cater to 
+      male consumers by offering a diverse selection of tech products and accessories.
+    - __Sports and Leisure:__ Male consumers may also lead in purchases related to sports equipment, outdoor gear, and leisure activities, reflecting their interests in physical fitness 
+      and recreational pursuits.
+    - __Shopping Preferences and Convenience:__ Males may exhibit different shopping preferences compared to females, favoring efficiency, convenience, and functionality in their 
+      purchasing decisions.
+      
+- __Variations in Istanbul Shopping Behavior Based on Gender:__
+  - __Fashion and Beauty:__ Females may show a stronger preference for fashion apparel, cosmetics, and beauty products, while males may prioritize functional and practical items.
+  - __Technology and Electronics:__ Males may demonstrate a higher interest in technology gadgets, electronic devices, and gaming accessories, while females may focus on other product categories.
+  - __Household and Lifestyle:__ Females may lead in purchases related to household items, groceries, and family-oriented products, reflecting their roles as caregivers and household decision-makers.
