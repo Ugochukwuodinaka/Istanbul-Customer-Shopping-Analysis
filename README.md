@@ -236,13 +236,13 @@ From the analysis, i made the Key Performance findings below:
 - <img src="Total_Revenue_By_Shopping_Month.jpg" width="500">
 - **Total Revenue By Shopping Month Trend:**
 - In my analysis, the total revenue by shopping month trend provides insights into the variations in customer behavior and spending patterns throughout the year in Istanbul. 
-- __January (Top Revenue): ₺28,891,526__ January emerges as the month with the highest total revenue, signaling strong consumer spending at the beginning of the year. This may be attributed to factors such as New Year's sales, winter fashion purchases, and post-holiday shopping. 
-- __February: ₺26,625,090__ February follows closely behind January in total revenue, indicating sustained consumer interest and spending momentum. Valentine's Day promotions and winter-related purchases may contribute to the continued high revenue in February. 
-- __March: ₺21,956,191__ March sees a slight decrease in total revenue compared to the previous months. This may be influenced by factors such as the transition from winter to spring, with consumers adjusting their shopping priorities. 
-- __October: ₺20,545,090__ October experiences a notable increase in total revenue, possibly due to factors such as fall fashion launches, back-to-school shopping, and early preparations for the upcoming holiday season. 
-- __July, May, and December: ( ₺20,378,723, ₺19,719,331, ₺19,455,086)__ July, May, and December show relatively higher total revenues, indicating potential seasonal peaks and specific events driving consumer spending. July may see increased sales due to summer vacations and seasonal activities. May may witness pre-summer and Mother's Day-related purchases. December's higher revenue is expected, given the holiday season and festive shopping.
-- __August,June, and September: (₺19,282,361, 18,933,775, ₺18,795,795)__ August, June, and September show moderate total revenues, suggesting a relatively stable shopping behavior during these months.
-- __April and November (Lower Revenue): ₺18,715,686 & ₺18,207,140__ April and November exhibit lower total revenues, possibly indicating quieter periods in the shopping calendar.
+- __January (Top Revenue):__ January emerges as the month with the highest total revenue, signaling strong consumer spending at the beginning of the year. This may be attributed to factors such as New Year's sales, winter fashion purchases, and post-holiday shopping. 
+- __February:__ February follows closely behind January in total revenue, indicating sustained consumer interest and spending momentum. Valentine's Day promotions and winter-related purchases may contribute to the continued high revenue in February. 
+- __March:__ March sees a slight decrease in total revenue compared to the previous months. This may be influenced by factors such as the transition from winter to spring, with consumers adjusting their shopping priorities. 
+- __October:__ October experiences a notable increase in total revenue, possibly due to factors such as fall fashion launches, back-to-school shopping, and early preparations for the upcoming holiday season. 
+- __July, May, and December:__ July, May, and December show relatively higher total revenues, indicating potential seasonal peaks and specific events driving consumer spending. July may see increased sales due to summer vacations and seasonal activities. May may witness pre-summer and Mother's Day-related purchases. December's higher revenue is expected, given the holiday season and festive shopping.
+- __August,June, and September:__ August, June, and September show moderate total revenues, suggesting a relatively stable shopping behavior during these months.
+- __April and November (Lower Revenue):__ April and November exhibit lower total revenues, possibly indicating quieter periods in the shopping calendar.
   
 - __Insights into Istanbul Shopping Customer Behavior Based on Total Revenue by Shopping Month:__
 - __Seasonal Changes:__ The variations in total revenue highlight the impact of seasonal changes on consumer spending patterns. 
