@@ -98,35 +98,28 @@ From the analysis, i made the Key Performance findings below:
 - **The Total Revenue By Product Category:**
 - In this analysis, The provided total revenue by product category indicates a clear hierarchy in terms of revenue generation within the shopping dataset. Here's a breakdown of the top revenue-generating categories:
 - __Clothing Tops: $113,996,791__
-  - Clothing tops emerge as the top revenue-generating category, signifying a strong demand for fashionable attire among consumers. In Turkish shopping culture, clothing holds 
-    significant importance, reflecting personal style and cultural norms. The popularity of clothing tops may be attributed to factors such as changing fashion trends, seasonal 
+  - Clothing tops emerge as the top revenue-generating category, signifying a strong demand for Turkish fashionable attire among consumers within Turkey and international customers. In 
+    Turkish shopping culture, clothing holds significant importance, reflecting personal style and cultural norms.
     preferences, and social influences.
 - __Shoes: $66,553,451__
-  - Shoes represent another lucrative category, suggesting that consumers prioritize footwear as an essential aspect of their wardrobe. Turkish shopping culture often emphasizes the 
-    importance of footwear in completing an outfit, whether for everyday wear or special occasions. The demand for shoes may be influenced by factors such as comfort, durability, and 
-    style preferences.
+  - Shoes represent another lucrative category, Turkey is known for durable and classy footwears, suggesting that local and international consumers prioritize footwear as an essential 
+    aspect of their wardrobe. Turkish shopping culture often emphasizes the importance of footwear in completing an outfit, whether for everyday wear or special occasions. 
 - __Technology: $57,862,550__
-  - The technology category encompasses a wide range of electronic devices and gadgets, indicating a growing interest in digital products among consumers. In Turkish shopping culture, 
-    there is a noticeable trend towards embracing technology for both practical and recreational purposes. Factors driving the demand for technology products may include advancements in 
-    technology, increasing connectivity, and the desire for convenience.
+  - The technology category encompasses a wide range of electronic devices and gadgets, indicating a growing interest in digital products among consumers locally and internationally. In 
+    Turkish shopping culture, there is a noticeable trend towards embracing technology for both practical and recreational purposes.
 - __Cosmetics: $6,792,863__
   - Cosmetics cater to personal grooming and self-care needs, reflecting a desire among consumers to enhance their appearance and well-being. Turkish shopping culture places value on 
-    personal grooming and maintaining a polished appearance, contributing to the demand for cosmetics products. Factors such as beauty trends, brand preferences, and cultural influences 
-    may impact consumer choices in this category.
+    personal grooming and maintaining a polished appearance, contributing to the demand for Turkish cosmetics products locally and internationally. 
 - __Toys: $3,980,426__
   - Toys appeal to both children and adults, serving as sources of entertainment, creativity, and nostalgia. In Turkish shopping culture, family-oriented values and celebrations play a 
-    significant role, driving demand for toys for children and gifts for special occasions. Factors such as toy trends, educational value, and brand recognition may influence consumer 
-    purchases in this category.
+    significant role, driving demand for toys for children and gifts for special occasions. 
 - __Food & Beverage: $849,535__
   - Food and beverage products fulfill essential needs for nourishment and enjoyment, reflecting consumer preferences for culinary experiences and dietary choices. Turkish shopping 
-    culture encompasses rich culinary traditions and a love for food, influencing the demand for diverse food and beverage products. Factors such as taste preferences, health 
-    considerations, and cultural celebrations may shape consumer purchases in this category.
+    culture encompasses rich culinary traditions and a love for food, influencing the demand for diverse food and beverage products. 
 - __Books: $834,553__
   - Books cater to intellectual pursuits, education, and leisure reading, reflecting a desire among consumers for knowledge and entertainment. In Turkish shopping culture, there is a 
-    longstanding tradition of literary appreciation and intellectual discourse, driving demand for books across various genres and subjects. Factors such as literary trends, author 
-    popularity, and educational needs may impact consumer choices in this category.
+    longstanding tradition of literary appreciation and intellectual discourse, driving demand for books across various genres and subjects. 
 - __Souvenir: $635,825__
   - Souvenirs serve as tangible mementos of travel experiences and cultural heritage, appealing to tourists and locals alike. In Turkish shopping culture, there is a thriving tourism 
-    industry and a rich historical heritage, contributing to the demand for unique souvenirs that capture the essence of Turkish culture. Factors such as souvenir authenticity, cultural 
-    significance, and sentimental value may influence consumer purchases in this category.
-- Overall, the variation in product categories contributing to the total revenue reflects the diverse preferences, interests, and cultural influences shaping the Turkish shopping landscape. From fashion and technology to personal care and leisure, each category caters to different consumer needs and aspirations, highlighting the multifaceted nature of shopping behavior in Turkey.
+    industry and a rich historical heritage, contributing to the demand for unique souvenirs that capture the essence of Turkish culture. 
+- Overall, the variation in product categories contributing to the total revenue reflects the diverse preferences, interests, and cultural influences shaping the Turkish shopping landscape. 
