@@ -1,6 +1,16 @@
 # Istanbul-Customer-Shopping-(2021-2023)-Analysis
 ![](Istanbul_Customer_Shopping_image.jpg)
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Tools Used](#tools-used)
+- [Visualization in Power BI](#visualization-in-power-bi)
+- [Project Analysis](#project-analysis)
+- [Visuals in Power BI Report](#visuals-in-power-bi-report)
+- [Recommendations On How To Improve Customer Shopping Experience in Istanbul To Attract More Local and international Patronage](#recommendations-on-how-to-improve-customer-shopping-experience-in-istanbul-to-attract-more-local-and-international-patronage)
+
+
 ## Project Overview
 ### Introduction:
 Welcome to the bustling shopping scene of Istanbul! This project delves into the rich shopping landscape of Istanbul, focusing on data collected from 10 prominent shopping malls spanning the years 2021 to 2023. Our comprehensive dataset encompasses a diverse range of shoppers, capturing insights from various age groups and genders to provide a holistic view of shopping habits in this vibrant city.
@@ -254,7 +264,7 @@ From the analysis, i made the Key Performance findings below:
 ## Visuals in Power BI Report:
 You can view and interact with this dashboard report on Istanbul Customer Shopping (2021-2023) Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiZjBmMDVmMTgtNzQ1ZC00NjAxLWI5YmItOWVhMzliMDA0YzhkIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
 
-## Recommendations On How To improve Customer Shopping Exxperience in Istanbul To Attract More Local and international Patronage
+## Recommendations On How To Improve Customer Shopping Experience in Istanbul To Attract More Local and international Patronage
 - __Diverse Retail Offerings:__ Ensure a diverse range of retail offerings that cater to different tastes, preferences, and budgets. This includes a mix of local brands, international retailers, artisanal shops, and specialty stores, offering a unique shopping experience for customers.
 - __Enhanced Customer Service:__ Focus on providing exceptional customer service to create positive shopping experiences. Train staff to be knowledgeable, helpful, and attentive to customers' needs. Offer multilingual support to accommodate international visitors and ensure clear communication.
 - __Innovative Technology:__ Integrate innovative technology solutions to streamline the shopping process and enhance convenience. Implement mobile payment options, self-checkout kiosks, and digital signage to improve efficiency and ease of transaction for customers.
