@@ -85,7 +85,7 @@ No data modelling was required since we need just a table for the analysis.
 
 ### Project Analysis:
 From the analysis, i made the Key Performance findings below:
-- The Total Revenue is from all the Shopping Malls is __₺251,505,794M__.
+- The Total Revenue from all the Shopping Malls is __₺251,505,794M__.
 - The Number of Shopping Malls for this analysis is __10__.
 - The Number of Product Categories is __8__.
 - Total Number of Customers is __99,457__.
@@ -123,3 +123,35 @@ From the analysis, i made the Key Performance findings below:
   - Souvenirs serve as tangible mementos of travel experiences and cultural heritage, appealing to tourists and locals alike. In Turkish shopping culture, there is a thriving tourism 
     industry and a rich historical heritage, contributing to the demand for unique souvenirs that capture the essence of Turkish culture. 
 - Overall, the variation in product categories contributing to the total revenue reflects the diverse preferences, interests, and cultural influences shaping the Turkish shopping landscape. 
+
+
+- <img src="Total_Revenue_By_Shopping_Mall.jpg" width="250">
+- **The Total Revenue By Shopping Mall Location:**
+- In this my analysis, the total revenue breakdown by shopping mall provides valuable insights into consumer spending patterns and shopping behaviors across different retail destinations in Istanbul. Each mall represents a unique shopping environment, catering to diverse demographics and preferences within the local market.
+- __Mall of Istanbul: ₺50,872,482__
+  _ Mall of Istanbul emerges as the top revenue-generating mall, indicating its popularity among consumers and its position as a premier shopping destination in Istanbul. This may be 
+    attributed to factors such as its extensive range of retail offerings, strategic location, and robust marketing efforts.
+- __Kanyon: ₺50,554,231__
+  - Kanyon follows closely behind Mall of Istanbul, showcasing its strong appeal and competitive position in the Istanbul retail landscape. Known for its innovative architectural design 
+    and upscale shopping experience, Kanyon attracts affluent shoppers seeking luxury brands and upscale amenities.
+- __Metrocity: ₺37,302,787__
+  - Metrocity ranks third in total revenue, reflecting its prominence as a popular shopping destination in Istanbul. Situated in the bustling business district of Levent, Metrocity 
+    caters to a diverse clientele, including professionals, residents, and tourists, with its mix of retail, dining, and entertainment options.
+- __Metropol AVM: ₺25,379,913__
+  - Metropol AVM maintains a solid position in the market, attracting shoppers with its convenient location and diverse retail offerings. As a neighborhood shopping center, Metropol AVM 
+    serves as a community hub, catering to the needs of local residents and providing a convenient shopping experience.
+- __Istinye Park: ₺24,618,828__
+  - Istinye Park boasts a strong presence in the retail landscape, renowned for its upscale ambiance, luxury boutiques, and extensive leisure amenities. Situated in a prestigious 
+    neighborhood, Istinye Park attracts affluent shoppers seeking high-end fashion, gourmet dining, and cultural experiences.
+- __Zorlu Centre: ₺12,901,054__
+  - Zorlu Centre occupies a niche market position, appealing to discerning shoppers with its blend of luxury brands, designer boutiques, and cutting-edge entertainment offerings. As a 
+    lifestyle destination, Zorlu Centre attracts fashion-forward consumers and trendsetters seeking unique experiences.
+- __Cevahir AVM: ₺12,645,138__
+  - Cevahir AVM rounds out the list, maintaining its status as one of Istanbul's largest and most popular shopping malls. Known for its diverse retail mix, entertainment options, and 
+    family-friendly amenities, Cevahir AVM caters to a broad demographic, including families, tourists, and budget-conscious shoppers.
+
+
+- <img src="Total_Revenue_By_Shopping_Mall.jpg" width="250">
+- **The Total Revenue By Shopping Mall Location:**
+- In this my analysis,
+
