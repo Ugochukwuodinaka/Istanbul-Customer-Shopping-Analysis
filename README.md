@@ -29,7 +29,7 @@ Here's an overview of the table columns along with explanations of the column na
 - Gain insights into the total number of customers across shopping malls.
 - Analyze variations in shopping behavior based on payment methods.
 - Analyze variations in shopping behavior based on shopping by gender.
-- Explore correlations between demographic factors such as age band, gender, and shopping habits.
+- Explore correlations between demographic factors such as age band, gender, and product category as related to total revenue.
 - Gain insights into shopping trends and patterns across different age groups, genders, and total revenue generated.
 - Analyze variations in shopping behavior based on Total Revenue by age band and product category.
 
@@ -210,3 +210,12 @@ From the analysis, i made the Key Performance findings below:
   - __Fashion and Beauty:__ Females may show a stronger preference for fashion apparel, cosmetics, and beauty products, while males may prioritize functional and practical items.
   - __Technology and Electronics:__ Males may demonstrate a higher interest in technology gadgets, electronic devices, and gaming accessories, while females may focus on other product categories.
   - __Household and Lifestyle:__ Females may lead in purchases related to household items, groceries, and family-oriented products, reflecting their roles as caregivers and household decision-makers.
+
+
+- <img src="Total_Revenue_By_AgeBand_%26_Product_Category.jpg" width="450">
+- **Total Revenue By Age Band and Product Category:**
+- In this analysis, the breakdown of total revenue by age band and product category provides valuable insights into the shopping behaviors and preferences of different demographic groups in Istanbul. By examining correlations between demographic factors such as age band, gender, and product category in relation to total revenue, we can gain a deeper understanding of consumer trends and tailor marketing strategies accordingly.
+- __Young Adults:__ Young adults emerge as significant contributors to total revenue, particularly in categories such as clothing, shoes, and technology. This demographic group, typically aged between 20 to 39 years old, represents a key market segment with diverse preferences and purchasing power. Young adults are likely to prioritize fashion trends, technological gadgets, and lifestyle products, driving sales in these categories.
+- __Mid-aged Adults:__ Mid-aged adults follow closely behind young adults in total revenue generation, with similar preferences for clothing, shoes, and technology products. This demographic, typically aged between 40 to 59 years old, represents a stable and affluent consumer segment with established purchasing habits. Mid-aged adults may prioritize quality, comfort, and practicality in their shopping choices, leading to consistent sales in categories such as apparel and footwear. 
+- __Old Adults:__ Old adults contribute to total revenue across various product categories, albeit at a lower level compared to younger demographic groups. This demographic, typically aged 60 years old and above, may exhibit more conservative shopping behaviors and preferences. Old adults may prioritize comfort, durability, and value for money in their purchasing decisions, leading to steady sales in categories such as clothing and shoes. 
+- __Teenagers:__ Teenagers represent a smaller but still significant segment of total revenue, with preferences skewed towards clothing, shoes, and technology. This demographic, typically aged between 13 to 19 years old, represents a youthful and trend-conscious consumer group with disposable income from allowances or part-time jobs. Teenagers are likely to gravitate towards fashion-forward clothing, trendy footwear, and the latest tech gadgets, driving sales in these categories. 
