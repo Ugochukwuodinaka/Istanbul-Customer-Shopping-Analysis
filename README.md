@@ -152,6 +152,39 @@ From the analysis, i made the Key Performance findings below:
 
 
 - <img src="Total_Revenue_By_Shopping_Mall.jpg" width="250">
-- **The Total Revenue By Shopping Mall Location:**
-- In this my analysis,
+- **Total Revenue By Payment Methods & an Analysis of Variations in Istanbul Shopping Behavior Based on Payment Methods:**
+- Here,The breakdown of total revenue by payment method provides valuable insights into the prevalent payment preferences and behaviors of consumers in Istanbul. A deep understanding of these variations can help retailers and businesses tailor their strategies to accommodate different payment methods and enhance the overall shopping experience for customers.
+- __Payment by Cash: ₺112,832,243__
+  - Payment by cash emerges as the dominant payment method, indicating a significant proportion of consumers in Istanbul prefer to conduct transactions using physical currency. This 
+    preference for cash payments may be influenced by several factors:
+    - __Cultural Norms:__ Cash payments align with traditional Turkish customs and cultural norms, where using physical currency is often favored for transactions.
+    - __Privacy and Anonymity:__ Cash transactions provide a level of anonymity and privacy for consumers, particularly those who value discretion in their financial transactions.
+    - __Financial Control:__ Some consumers may prefer cash payments as a way to manage their spending and avoid accumulating debt, as transactions are limited to available funds.
+- __Credit Card: ₺88,077,124__
+  - Credit card transactions rank second in total revenue, highlighting the popularity and widespread adoption of electronic payment methods among Istanbul consumers. The preference for 
+    credit card payments may be driven by the following factors:
+    - __Convenience:__ Credit cards offer a convenient and secure payment option, allowing consumers to make purchases without carrying physical cash.
+    - __Rewards and Benefits:__ Many credit cards offer rewards, cashback, or loyalty points, incentivizing consumers to use credit cards for their purchases and benefit from these 
+      perks.
+    - __Financial Flexibility:__ Credit cards provide consumers with the flexibility to pay for purchases over time through installment plans or revolving credit lines, enabling them to 
+      manage their finances more effectively.
+- __Debit Card: ₺50,596,427__
+  - Debit card transactions represent another significant portion of total revenue, indicating the popularity of using bank-issued debit cards for payments among Istanbul consumers. The 
+    preference for debit card payments may be influenced by the following factors:
+    - __Immediate Funds Access:__ Debit cards allow consumers to access funds directly from their bank accounts, providing a convenient and efficient payment option for everyday 
+      transactions.
+    - __Security and Fraud Protection:__ Debit cards offer security features such as PIN authentication and fraud monitoring, providing consumers with peace of mind when making 
+      purchases.
+    - __Budget Management:__ Debit cards help consumers manage their finances by limiting spending to available funds, promoting responsible spending habits and avoiding debt 
+      accumulation.
+
+- __Variations in Istanbul Shopping Behavior Based on Payment Methods:__
+
+  - __Cash Payments:__ Consumers favoring cash payments may prioritize privacy, financial control, and adherence to cultural norms. Retailers catering to cash-paying customers should 
+    ensure they have sufficient cash handling processes in place and provide discreet payment options.
+  - __Credit Card Payments:__ Consumers using credit cards may seek convenience, rewards, and financial flexibility. Retailers can optimize their payment systems to accept credit cards, 
+    offer promotions tailored to credit card users, and provide secure online payment options.
+  - __Debit Card Payments:__ Consumers opting for debit card payments value immediate funds access, security, and budget management. Retailers should ensure seamless debit card 
+    processing, promote contactless payment options, and offer incentives to attract debit card users.
+- In conclusion, understanding variations in Istanbul shopping behavior based on payment methods enables businesses to tailor their strategies to meet consumer preferences, enhance transaction experiences, and drive sales in the dynamic and diverse retail landscape of Istanbul.
 
