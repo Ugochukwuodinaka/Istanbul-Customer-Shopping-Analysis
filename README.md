@@ -151,9 +151,9 @@ From the analysis, i made the Key Performance findings below:
     family-friendly amenities, Cevahir AVM caters to a broad demographic, including families, tourists, and budget-conscious shoppers.
 
 
-- <img src="Total_Revenue_By_Shopping_Mall.jpg" width="250">
+- <img src="Payment_Method.jpg" width="250">
 - **Total Revenue By Payment Methods & an Analysis of Variations in Istanbul Shopping Behavior Based on Payment Methods:**
-- Here,The breakdown of total revenue by payment method provides valuable insights into the prevalent payment preferences and behaviors of consumers in Istanbul. A deep understanding of these variations can help retailers and businesses tailor their strategies to accommodate different payment methods and enhance the overall shopping experience for customers.
+- Here, the breakdown of total revenue by payment method provides valuable insights into the prevalent payment preferences and behaviors of consumers in Istanbul. A deep understanding of these variations can help retailers and businesses tailor their strategies to accommodate different payment methods and enhance the overall shopping experience for customers.
 - __Payment by Cash: ₺112,832,243__
   - Payment by cash emerges as the dominant payment method, indicating a significant proportion of consumers in Istanbul prefer to conduct transactions using physical currency. This 
     preference for cash payments may be influenced by several factors:
@@ -179,12 +179,7 @@ From the analysis, i made the Key Performance findings below:
       accumulation.
 
 - __Variations in Istanbul Shopping Behavior Based on Payment Methods:__
-
-  - __Cash Payments:__ Consumers favoring cash payments may prioritize privacy, financial control, and adherence to cultural norms. Retailers catering to cash-paying customers should 
-    ensure they have sufficient cash handling processes in place and provide discreet payment options.
-  - __Credit Card Payments:__ Consumers using credit cards may seek convenience, rewards, and financial flexibility. Retailers can optimize their payment systems to accept credit cards, 
-    offer promotions tailored to credit card users, and provide secure online payment options.
-  - __Debit Card Payments:__ Consumers opting for debit card payments value immediate funds access, security, and budget management. Retailers should ensure seamless debit card 
-    processing, promote contactless payment options, and offer incentives to attract debit card users.
-- In conclusion, understanding variations in Istanbul shopping behavior based on payment methods enables businesses to tailor their strategies to meet consumer preferences, enhance transaction experiences, and drive sales in the dynamic and diverse retail landscape of Istanbul.
+  - __Cash Payments:__ Consumers favoring cash payments may prioritize privacy, financial control, and adherence to cultural norms. 
+  - __Credit Card Payments:__ Consumers using credit cards may seek convenience, rewards, and financial flexibility. 
+  - __Debit Card Payments:__ Consumers opting for debit card payments value immediate funds access, security, and budget management.
 
