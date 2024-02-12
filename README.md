@@ -33,5 +33,45 @@ Here's an overview of the table columns along with explanations of the column na
 - Gain insights into shopping trends and patterns across different age groups, genders, and total revenue generated.
 - Analyze variations in shopping behavior based on Total Revenue by age band and product category.
 
+
 ## Expected Outcomes:
 Through meticulous analysis and interpretation of the dataset, the project anticipates generating valuable insights into Istanbul's dynamic shopping ecosystem. These insights can inform various stakeholders, including retailers, marketers, and urban planners, enabling them to make data-driven decisions to enhance customer experiences, optimize inventory management, and drive business growth.
+
+
+### Tools Used
+1. Power Query Editor
+    - Was used to:
+        1. Extract,
+        2. Transform, and
+        3. Load all the datasets for this analysis.
+           
+2. Power BI (Was used to create reports and dashboard for this analysis)
+    - The following Power BI Features were incorporated:
+        1. DAX
+        2. Quick Measures
+        3. Filters
+        4. Tooltips
+
+
+### Data Cleaning, Transformation and Loading using the Power Query Editor:
+1. I transformed all column data types to the right data types
+2. I added a new column __"total_revenue"__ which was derived from multiplying the cata in the __"price"__ column by the data in the __"quantity"__ column.
+3. I added a new column __"age_band"__ by extracting the data in the the __"age"__ column and grouping them (Children, Teenager, Young Adult, Mid-aged Adult, and Old Adult) using the "If function".
+4. Duplicated the __"invoice_date"__ column into 2 columns, renamed the 2 columns to __invoice_date1__ and __invoice_daste2__.
+5. Splitted the __"invoice_date1"__ using the delimiter into day/month/year, changed the name of the splitted column for year to __"invoice_year"__, and changed type to int64.
+6. Splitted the __"invoice_date2"__ using the delimiter into day/month/year, changed the name of the splitted column for minth to __"month"__, and changed the type to int64.
+7. Created a new column __"invoice_month"__ and filled it up by extracting the data from the __"month"__ , used the "if function" to convert them into months of the year (Jan- Dec) and chnaged the data type to text.
+8. removed all the initial duplicated/Splitted columns leaving only the newly created __"invoice_year"__ and __"invoice_month"__ columns to join the other columns already existing.
+9. Reordered all coulmns
+10. Changed the __"total_revenue"__ data type to Decimal Number.
+
+**Raw Data**
+- Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](customer_shopping_data.csv).
+
+![](Raw_Data_Image.png)
+
+**Final Power Query Editor screenshot**
+- Below is a screenshot of a part of the cleaned data in power query editor. You can access the full Power BI project document [here](US%20HEALTH%20INSURANCE%20COVERAGE%20(2010%20-%202016).pbix).
+
+![](Final_Power_Query_Editor_Screenshot.png)
+
