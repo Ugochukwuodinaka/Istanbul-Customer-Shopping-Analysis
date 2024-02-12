@@ -71,7 +71,25 @@ Through meticulous analysis and interpretation of the dataset, the project antic
 ![](Raw_Data_Image.png)
 
 **Final Power Query Editor screenshot**
-- Below is a screenshot of a part of the cleaned data in power query editor. You can access the full Power BI project document [here](US%20HEALTH%20INSURANCE%20COVERAGE%20(2010%20-%202016).pbix).
+- Below is a screenshot of a part of the cleaned data in power query editor. You can access the full Power BI project document [here](https://github.com/Ugochukwuodinaka/Istanbul-Customer-Shopping-Analysis/blob/main/ISTANBUL%20CUSTOMER%20SHOPPING%20ANALYSIS%20(2021%20-%202023).pbix).
 
 ![](Final_Power_Query_Editor_Screenshot.png)
 
+
+## Data Modelling
+No data modelling was required since we need just a table for the analysis.
+
+## Visualization in Power BI:
+#### Report 1
+![](Istanbul_Customer_Shopping_(2021-2023)_Analysis_Dashboard.jpg)
+
+### Project Analysis:
+From the analysis, i made the Key Performance findings below:
+- The Total Revenue is from all the Shopping Malls is __₺251,505,794M__.
+- The Number of Shopping Malls for this analysis is __10__.
+- The Number of Product Categories is __8__.
+- Total Number of Customers is __99,457__.
+- Number of Male Customers is __39.975__.
+- Number of Female Customers is __59,482__.
+- The Average Revenue By Customer is __₺2,529__.
+- The Average Age of Customers is __43__.
