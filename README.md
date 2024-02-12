@@ -212,7 +212,7 @@ From the analysis, i made the Key Performance findings below:
   - __Household and Lifestyle:__ Females may lead in purchases related to household items, groceries, and family-oriented products, reflecting their roles as caregivers and household decision-makers.
 
 
-- <img src="Total_Revenue_By_AgeBand_%26_Product_Category.jpg" width="450">
+- <img src="Total_Revenue_By_AgeBand_%26_Product_Category.jpg" width="500">
 - **Total Revenue By Age Band and Product Category:**
 - In this analysis, the breakdown of total revenue by age band and product category provides valuable insights into the shopping behaviors and preferences of different demographic groups in Istanbul. By examining correlations between demographic factors such as age band, gender, and product category in relation to total revenue, we can gain a deeper understanding of consumer trends and tailor marketing strategies accordingly.
 - __Young Adults:__ Young adults emerge as significant contributors to total revenue, particularly in categories such as clothing, shoes, and technology. This demographic group, typically aged between 20 to 39 years old, represents a key market segment with diverse preferences and purchasing power. Young adults are likely to prioritize fashion trends, technological gadgets, and lifestyle products, driving sales in these categories.
