@@ -1,4 +1,4 @@
-# Istanbul-Customer-Shopping-(2021-2023)-Analysis
+# Istanbul Customer Shopping (2021-2023) Analysis
 ![](images/Istanbul_Customer_Shopping_image.jpg)
 
 ## Table of Contents
@@ -90,7 +90,7 @@ Through meticulous analysis and interpretation of the dataset, the project antic
 No data modelling was required since we need just a table for the analysis.
 
 ## Visualization in Power BI:
-#### Report 1
+#### Report Image
 ![](images/Istanbul_Customer_Shopping_(2021-2023)_Analysis_Dashboard.jpg)
 
 ### Project Analysis:
