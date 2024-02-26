@@ -47,6 +47,12 @@ Here's an overview of the table columns along with explanations of the column na
 ## Expected Outcomes:
 Through meticulous analysis and interpretation of the dataset, the project anticipates generating valuable insights into Istanbul's dynamic shopping ecosystem. These insights can inform various stakeholders, including retailers, marketers, and urban planners, enabling them to make data-driven decisions to enhance customer experiences, optimize inventory management, and drive business growth.
 
+### Skills Utilized
+1. Data Cleaning
+2. Data Visualiziation
+3. Descriptive Analytics
+4. Critical Thinking and Problem Solving
+5. Communication and Reporting
 
 ### Tools Used
 1. Power Query Editor
@@ -275,3 +281,5 @@ You can view and interact with this dashboard report on Istanbul Customer Shoppi
 - __Accessibility and Infrastructure:__ Improve accessibility and infrastructure within shopping areas to enhance convenience for customers. This includes providing ample parking facilities, accessible transportation options, pedestrian-friendly walkways, and signage in multiple languages to assist visitors.
 - __Safety and Security:__ Ensure a safe and secure shopping environment to instill confidence and trust among customers. Implement robust security measures, including surveillance cameras, security personnel, and emergency response protocols, to address safety concerns and create a welcoming atmosphere for shoppers.
 - __Collaboration with Tourism Industry:__ Collaborate with the tourism industry to promote shopping as a key aspect of the visitor experience in Istanbul. Partner with tour operators, hotels, and travel agencies to include shopping excursions and retail packages in tourism itineraries, showcasing Istanbul's vibrant retail scene to international visitors.
+
+## Thank You For Reading Through!
