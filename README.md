@@ -71,13 +71,13 @@ Through meticulous analysis and interpretation of the dataset, the project antic
 
 ### Data Cleaning, Transformation and Loading using the Power Query Editor:
 1. I transformed all column data types to the right data types
-2. I added a new column __"total_revenue"__ which was derived from multiplying the cata in the __"price"__ column by the data in the __"quantity"__ column.
-3. I added a new column __"age_band"__ by extracting the data in the the __"age"__ column and grouping them (Children, Teenager, Young Adult, Mid-aged Adult, and Old Adult) using the "If function".
+2. I added a new column __"total_revenue"__ which was derived from multiplying the data in the __"price"__ column by the data in the __"quantity"__ column.
+3. I added a new column __"age_band"__ by extracting the data in the __"age"__ column and grouped them (Children, Teenager, Young Adult, Mid-aged Adult, and Old Adult) using the "If function".
 4. Duplicated the __"invoice_date"__ column into 2 columns, renamed the 2 columns to __invoice_date1__ and __invoice_daste2__.
 5. Splitted the __"invoice_date1"__ using the delimiter into day/month/year, changed the name of the splitted column for year to __"invoice_year"__, and changed type to int64.
-6. Splitted the __"invoice_date2"__ using the delimiter into day/month/year, changed the name of the splitted column for minth to __"month"__, and changed the type to int64.
-7. Created a new column __"invoice_month"__ and filled it up by extracting the data from the __"month"__ , used the "if function" to convert them into months of the year (Jan- Dec) and chnaged the data type to text.
-8. removed all the initial duplicated/Splitted columns leaving only the newly created __"invoice_year"__ and __"invoice_month"__ columns to join the other columns already existing.
+6. Splitted the __"invoice_date2"__ using the delimiter into day/month/year, changed the name of the splitted column for month to __"month"__, and changed the type to int64.
+7. Created a new column __"invoice_month"__ and filled it up by extracting the data from the __"month"__ , used the "if function" to convert them into the months of the year (Jan- Dec) and chnaged the data type to text.
+8. removed all the initial duplicated/Splitted columns leaving only the newly created __"invoice_year"__ and __"invoice_month"__ columns to join other columns already existing.
 9. Reordered all coulmns
 10. Changed the __"total_revenue"__ data type to Decimal Number.
 
