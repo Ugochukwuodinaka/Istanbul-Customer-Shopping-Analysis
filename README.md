@@ -69,27 +69,25 @@ Through meticulous analysis and interpretation of the dataset, the project antic
         4. Tooltips
 
 
-### Data Cleaning, Transformation and Loading using the Power Query Editor:
-1. I transformed all column data types to the right data types
-2. I added a new column __"total_revenue"__ which was derived from multiplying the data in the __"price"__ column by the data in the __"quantity"__ column.
-3. I added a new column __"age_band"__ by extracting the data in the __"age"__ column and grouped them (Children, Teenager, Young Adult, Mid-aged Adult, and Old Adult) using the "If function".
-4. Duplicated the __"invoice_date"__ column into 2 columns, renamed the 2 columns to __invoice_date1__ and __invoice_daste2__.
-5. Splitted the __"invoice_date1"__ using the delimiter into day/month/year, changed the name of the splitted column for year to __"invoice_year"__, and changed type to int64.
-6. Splitted the __"invoice_date2"__ using the delimiter into day/month/year, changed the name of the splitted column for month to __"month"__, and changed the type to int64.
-7. Created a new column __"invoice_month"__ and filled it up by extracting the data from the __"month"__ , used the "if function" to convert them into the months of the year (Jan- Dec) and chnaged the data type to text.
-8. removed all the initial duplicated/Splitted columns leaving only the newly created __"invoice_year"__ and __"invoice_month"__ columns to join other columns already existing.
-9. Reordered all coulmns
-10. Changed the __"total_revenue"__ data type to Decimal Number.
+### Data Cleaning, Transformation and Loading using MS Sql Server:
+1. I transformed all column data types to the right data types.
+2. I added a new column __"total_revenue"__ which was derived from multiplying the values in the __"price"__ column by the values in the __"quantity"__ column.
+3. I added a new column __"age_band"__ by extracting the data in the __"age"__ column and grouped them (Children, Teenager, Young Adult, Mid-aged Adult, and Old Adult) using the "Update" and "Set query".
+4. Duplicated the __"invoice_date"__ column into __2__ columns, renamed the 2 columns __"new_invoice_date1"__ and __"new_invoice_date2"__.
+5. Splitted the __"new_invoice_date1"__ and extracted only the __"Year"__ using the substring and charindex query, added a new column __"invoice_year"__ with an int data type and extracted the __"new_invoice_data1"__ column data into it, dropped the __"new_invoice_data1"__ column from the table.
+6. Splitted the __"new_invoice_date2"__ and extracted only the __"Month"__ using the substring and charindex query, added a new column __"invoice_month"__ with an int data type and extracted the __"new_invoice_data2"__ column data into it, dropped the __"new_invoice_data2"__ column from the table.
+7. Created a new column __"invoice_month_name"__ which extracts the month values from the __"invoice_month"__ column and group them into: "January - December", dropped the __"invoice_month"__ column, renamed the __"invoice_month_name"__ column to "__invoice_month"__.
+8. Made sure there was no empty column cells.
 
 **Raw Data**
 - Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](customer_shopping_data.csv).
 
 ![](images/Raw_Data_Image.png)
 
-**Final Power Query Editor screenshot**
-- Below is a screenshot of a part of the cleaned data in power query editor. You can access the full Power BI project document [here](https://github.com/Ugochukwuodinaka/Istanbul-Customer-Shopping-Analysis/blob/main/ISTANBUL%20CUSTOMER%20SHOPPING%20ANALYSIS%20(2021%20-%202023).pbix).
+**Final MS Sql Server query screenshot**
+- Below is a screenshot of a part of the cleaned data in MS Sql. You can access the full Power BI project document [here](https://github.com/Ugochukwuodinaka/Istanbul-Customer-Shopping-Analysis/blob/main/ISTANBUL%20CUSTOMER%20SHOPPING%20ANALYSIS%20(2021%20-%202023).pbix).
 
-![](images/Final_Power_Query_Editor_Screenshot.png)
+![](images/MS_Sql_Query_Screenshot.png)
 
 
 ## Data Modelling
