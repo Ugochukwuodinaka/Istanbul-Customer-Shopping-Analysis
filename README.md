@@ -93,6 +93,8 @@ Sql Query Screenshot                                                            
 :---------------------------------------------------------------------------------:|
 ![](images/MS_Sql_Query_Screenshot.png)
 
+You can access the MS Sql Server query file [here](Istanbul_Customer_Shopping_Project.sql)
+
 
 ## Data Modelling
 No data modelling was required since we need just a table for the analysis.
