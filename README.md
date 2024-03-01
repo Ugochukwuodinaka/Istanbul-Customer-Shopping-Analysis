@@ -55,11 +55,12 @@ Through meticulous analysis and interpretation of the dataset, the project antic
 5. Communication and Reporting
 
 ### Tools Used
-1. Power Query Editor
+1. MS Sql Server
     - Was used to:
         1. Extract,
-        2. Transform, and
-        3. Load all the datasets for this analysis.
+        2. Clean,
+        3. Transform, and
+        4. Load all the datasets for this analysis.
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
     - The following Power BI Features were incorporated:
@@ -84,9 +85,12 @@ Through meticulous analysis and interpretation of the dataset, the project antic
 
 ![](images/Raw_Data_Image.png)
 
-**Final MS Sql Server query screenshot**
-- Below is a screenshot of a part of the cleaned data in MS Sql. You can access the full Power BI project document [here](https://github.com/Ugochukwuodinaka/Istanbul-Customer-Shopping-Analysis/blob/main/ISTANBUL%20CUSTOMER%20SHOPPING%20ANALYSIS%20(2021%20-%202023).pbix).
 
+**Final MS Sql Server query screenshot**
+- Below is a screenshot of a part of the cleaned data in MS Sql. You can access the full Power BI project document [here](ISTANBUL%20CUSTOMER%20SHOPPING%20ANALYSIS%20(2021%20-%202023).pbix).
+
+Sql Query Screenshot                                                               |                       
+:---------------------------------------------------------------------------------:|
 ![](images/MS_Sql_Query_Screenshot.png)
 
 
