@@ -80,9 +80,11 @@ Through meticulous analysis and interpretation of the dataset, the project antic
 7. Created a new column __"invoice_month_name"__ which extracts the month values from the __"invoice_month"__ column and group them into: "January - December", dropped the __"invoice_month"__ column, renamed the __"invoice_month_name"__ column to "__invoice_month"__.
 8. Made sure there was no empty column cells.
 
-**Raw Data**
+**Raw Data Screenshot**
 - Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](customer_shopping_data.csv).
 
+Raw Ddata Screenshot                                                               |                       
+:---------------------------------------------------------------------------------:|
 ![](images/Raw_Data_Image.png)
 
 
