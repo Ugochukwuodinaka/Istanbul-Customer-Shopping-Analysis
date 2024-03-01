@@ -81,7 +81,7 @@ Through meticulous analysis and interpretation of the dataset, the project antic
 8. Made sure there was no empty column cells.
 
 **Raw Data Screenshot**
-- Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](customer_shopping_data.csv).
+- Below a screenshot of a part of the raw data in .csv file format. You can preview the dataset [here](customer_shopping_data.csv).
 
 Raw Ddata Screenshot                                                               |                       
 :---------------------------------------------------------------------------------:|
@@ -89,13 +89,13 @@ Raw Ddata Screenshot                                                            
 
 
 **Final MS Sql Server query screenshot**
-- Below is a screenshot of a part of the cleaned data in MS Sql. You can access the full Power BI project document [here](ISTANBUL%20CUSTOMER%20SHOPPING%20ANALYSIS%20(2021%20-%202023).pbix).
+- Below is a screenshot of a part of the cleaned data in MS Sql. You can access the complete Power BI project document [here](ISTANBUL%20CUSTOMER%20SHOPPING%20ANALYSIS%20(2021%20-%202023).pbix).
 
 Sql Query Screenshot                                                               |                       
 :---------------------------------------------------------------------------------:|
 ![](images/MS_Sql_Query_Screenshot.png)
 
-You can access the MS Sql Server query file [here](Istanbul_Customer_Shopping_Project.sql)
+You can preview the MS Sql Server query file [here](Istanbul_Customer_Shopping_Project.sql)
 
 
 ## Data Modelling
