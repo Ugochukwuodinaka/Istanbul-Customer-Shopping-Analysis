@@ -35,6 +35,7 @@ Here's an overview of the table columns along with explanations of the column na
 - __payment_method:__ This column specifies the method of payment used for the transaction. It includes different payment options such as cash, credit card, debit card, mobile payment, etc., providing insights into payment preferences and transactional behaviors.
 - __invoice_date:__ This column indicates the date and time when the transaction took place. It records the timestamp of each purchase, enabling analysis of sales trends over time, seasonality, and temporal patterns in shopping behavior.
 - __shopping_mall:__ This column identifies the shopping mall or retail location where the transaction occurred. It allows for analysis of shopping preferences and behaviors across different mall locations, as well as assessment of the performance of individual malls in terms of foot traffic and sales.
+<br />
 
 ## Objectives:
 - Gain insights into the total revenue by product categories.
@@ -49,6 +50,7 @@ Here's an overview of the table columns along with explanations of the column na
 
 ## Expected Outcomes:
 Through meticulous analysis and interpretation of the dataset, the project anticipates generating valuable insights into Istanbul's dynamic shopping ecosystem. These insights can inform various stakeholders, including retailers, marketers, and urban planners, enabling them to make data-driven decisions to enhance customer experiences, optimize inventory management, and drive business growth.
+<br />
 <br />
 
 ### Skills Utilized
