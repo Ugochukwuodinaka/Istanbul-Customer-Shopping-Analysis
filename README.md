@@ -1,5 +1,6 @@
 # Istanbul Customer Shopping (2021-2023) Analysis
 ![](images/Istanbul_Customer_Shopping_image.jpg)
+<br />
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -9,11 +10,13 @@
 - [Project Analysis](#project-analysis)
 - [Visuals in Power BI Report](#visuals-in-power-bi-report)
 - [Recommendations On Improving Customer Shopping Experience in Istanbul To Attract More Local and international Patronage](#recommendations-on-improving-customer-shopping-experience-in-istanbul-to-attract-more-local-and-international-patronage)
-
+<br />
 
 ## Project Overview
 ### Introduction:
 Welcome to the bustling shopping scene of Istanbul! This project delves into the rich shopping landscape of Istanbul, focusing on data collected from 10 prominent shopping malls spanning the years 2021 to 2023. Our comprehensive dataset encompasses a diverse range of shoppers, capturing insights from various age groups and genders to provide a holistic view of shopping habits in this vibrant city.
+<br />
+<br />
 
 ### Dataset Overview:
 - The dataset comprises of vital information crucial for understanding Istanbul's shopping dynamics. It includes details such as invoice numbers, customer IDs, age, gender, payment methods, product categories, quantity, price, order dates, and shopping mall locations.
@@ -46,6 +49,7 @@ Here's an overview of the table columns along with explanations of the column na
 
 ## Expected Outcomes:
 Through meticulous analysis and interpretation of the dataset, the project anticipates generating valuable insights into Istanbul's dynamic shopping ecosystem. These insights can inform various stakeholders, including retailers, marketers, and urban planners, enabling them to make data-driven decisions to enhance customer experiences, optimize inventory management, and drive business growth.
+<br />
 
 ### Skills Utilized
 1. Data Cleaning
@@ -53,6 +57,7 @@ Through meticulous analysis and interpretation of the dataset, the project antic
 3. Descriptive Analytics
 4. Critical Thinking and Problem Solving
 5. Communication and Reporting
+<br />
 
 ### Tools Used
 1. MS Sql Server
@@ -68,7 +73,7 @@ Through meticulous analysis and interpretation of the dataset, the project antic
         2. Quick Measures
         3. Filters
         4. Tooltips
-
+<br />
 
 ### Data Cleaning, Transformation and Loading using MS Sql Server:
 1. I transformed all column data types to the right data types.
@@ -79,14 +84,15 @@ Through meticulous analysis and interpretation of the dataset, the project antic
 6. Splitted the __"new_invoice_date2"__ and extracted only the __"Month"__ using the substring and charindex query, added a new column __"invoice_month"__ with an int data type and extracted the __"new_invoice_data2"__ column data into it, dropped the __"new_invoice_data2"__ column from the table.
 7. Created a new column __"invoice_month_name"__ which extracts the month values from the __"invoice_month"__ column and group them into: "January - December", dropped the __"invoice_month"__ column, renamed the __"invoice_month_name"__ column to "__invoice_month"__.
 8. Made sure there was no empty column cells.
+<br />
 
 **Raw Data Screenshot**
 - Below a screenshot of a part of the raw data in .csv file format. You can preview the dataset [here](customer_shopping_data.csv).
 
-Raw Ddata Screenshot                                                               |                       
+Raw Data Screenshot                                                               |                       
 :---------------------------------------------------------------------------------:|
 ![](images/Raw_Data_Image.png)
-
+<br />
 
 **Final MS Sql Server query screenshot**
 - Below is a screenshot of a part of the cleaned data in MS Sql. You can access the complete Power BI project document [here](ISTANBUL%20CUSTOMER%20SHOPPING%20ANALYSIS%20(2021%20-%202023).pbix).
@@ -96,14 +102,19 @@ Sql Query Screenshot                                                            
 ![](images/MS_Sql_Query_Screenshot.png)
 
 You can preview the MS Sql Server query file [here](Istanbul_Customer_Shopping_Project.sql)
-
+<br />
+<br />
 
 ## Data Modelling
 No data modelling was required since we need just a table for the analysis.
+<br />
+<br />
 
 ## Visualization in Power BI:
 #### Report Image
 ![](images/Istanbul_Customer_Shopping_(2021-2023)_Analysis_Dashboard.jpg)
+<br />
+<br />
 
 ### Project Analysis:
 From the analysis, i made the Key Performance findings below:
@@ -115,8 +126,11 @@ From the analysis, i made the Key Performance findings below:
 - Number of Female Customers is __59,482__.
 - The Average Revenue By Customer is __₺2,529__.
 - The Average Age of Customers is __43__.
+<br />
+<br />
 
 - <img src="images/Total_Revenue_By_Category.jpg" width="250">
+
 - **The Total Revenue By Product Category:**
 - In this analysis, The provided total revenue by product category indicates a clear hierarchy in terms of revenue generation within the shopping dataset. Here's a breakdown of the top revenue-generating categories:
 - __Clothing Tops: $113,996,791__
@@ -145,9 +159,11 @@ From the analysis, i made the Key Performance findings below:
   - Souvenirs serve as tangible mementos of travel experiences and cultural heritage, appealing to tourists and locals alike. In Turkish shopping culture, there is a thriving tourism 
     industry and a rich historical heritage, contributing to the demand for unique souvenirs that capture the essence of Turkish culture. 
 - Overall, the variation in product categories contributing to the total revenue reflects the diverse preferences, interests, and cultural influences shaping the Turkish shopping landscape. 
-
+<br />
+<br />
 
 - <img src="images/Total_Revenue_By_Shopping_Mall.jpg" width="250">
+
 - **The Total Revenue By Shopping Mall Location:**
 - In this my analysis, the total revenue breakdown by shopping mall provides valuable insights into consumer spending patterns and shopping behaviors across different retail destinations in Istanbul. Each mall represents a unique shopping environment, catering to diverse demographics and preferences within the local market.
 - __Mall of Istanbul: ₺50,872,482__
@@ -171,9 +187,11 @@ From the analysis, i made the Key Performance findings below:
 - __Cevahir AVM: ₺12,645,138__
   - Cevahir AVM rounds out the list, maintaining its status as one of Istanbul's largest and most popular shopping malls. Known for its diverse retail mix, entertainment options, and 
     family-friendly amenities, Cevahir AVM caters to a broad demographic, including families, tourists, and budget-conscious shoppers.
-
+<br />
+<br />
 
 - <img src="images/Payment_Method.jpg" width="250">
+
 - **Total Revenue By Payment Methods & an Analysis of Variations in Istanbul Shopping Behavior Based on Payment Methods:**
 - Here, the breakdown of total revenue by payment method provides valuable insights into the prevalent payment preferences and behaviors of consumers in Istanbul. A deep understanding of these variations can help retailers and businesses tailor their strategies to accommodate different payment methods and enhance the overall shopping experience for customers.
 - __Payment by Cash: ₺112,832,243 (44.86%)__
@@ -204,9 +222,11 @@ From the analysis, i made the Key Performance findings below:
   - __Cash Payments:__ Consumers favoring cash payments may prioritize privacy, financial control, and adherence to cultural norms. 
   - __Credit Card Payments:__ Consumers using credit cards may seek convenience, rewards, and financial flexibility. 
   - __Debit Card Payments:__ Consumers opting for debit card payments value immediate funds access, security, and budget management.
-
+<br />
+<br />
 
 - <img src="images/Shopping_By_Gender.jpg" width="250">
+
 - **Total Revenue By Gender Shopping & an Analysis of Variations in Istanbul Shopping Behavior Based on Gender:**
 - In my analysis, the breakdown of total revenue by gender provides valuable insights into the shopping behavior and preferences of consumers in Istanbul, segmented by gender. 
 - __Shopping by Females: ₺150,207,136 (59.72%)__
@@ -232,18 +252,22 @@ From the analysis, i made the Key Performance findings below:
   - __Fashion and Beauty:__ Females may show a stronger preference for fashion apparel, cosmetics, and beauty products, while males may prioritize functional and practical items.
   - __Technology and Electronics:__ Males may demonstrate a higher interest in technology gadgets, electronic devices, and gaming accessories, while females may focus on other product categories.
   - __Household and Lifestyle:__ Females may lead in purchases related to household items, groceries, and family-oriented products, reflecting their roles as caregivers and household decision-makers.
-
+<br />
+<br />
 
 - <img src="images/Total_Revenue_By_AgeBand_%26_Product_Category.jpg" width="500">
+
 - **Total Revenue By Age Band and Product Category:**
 - In this analysis, the breakdown of total revenue by age band and product category provides valuable insights into the shopping behaviors and preferences of different demographic groups in Istanbul. By examining correlations between demographic factors such as age band, gender, and product category in relation to total revenue, we can gain a deeper understanding of consumer trends and tailor marketing strategies accordingly.
 - __Young Adults:__ Young adults emerge as significant contributors to total revenue, particularly in categories such as clothing, shoes, and technology. This demographic group, typically aged between 20 to 39 years old, represents a key market segment with diverse preferences and purchasing power. Young adults are likely to prioritize fashion trends, technological gadgets, and lifestyle products, driving sales in these categories.
 - __Mid-aged Adults:__ Mid-aged adults follow closely behind young adults in total revenue generation, with similar preferences for clothing, shoes, and technology products. This demographic, typically aged between 40 to 59 years old, represents a stable and affluent consumer segment with established purchasing habits. Mid-aged adults may prioritize quality, comfort, and practicality in their shopping choices, leading to consistent sales in categories such as apparel and footwear. 
 - __Old Adults:__ Old adults contribute to total revenue across various product categories, albeit at a lower level compared to younger demographic groups. This demographic, typically aged 60 years old and above, may exhibit more conservative shopping behaviors and preferences. Old adults may prioritize comfort, durability, and value for money in their purchasing decisions, leading to steady sales in categories such as clothing and shoes. 
 - __Teenagers:__ Teenagers represent a smaller but still significant segment of total revenue, with preferences skewed towards clothing, shoes, and technology. This demographic, typically aged between 13 to 19 years old, represents a youthful and trend-conscious consumer group with disposable income from allowances or part-time jobs. Teenagers are likely to gravitate towards fashion-forward clothing, trendy footwear, and the latest tech gadgets, driving sales in these categories. 
-
+<br />
+<br />
 
 - <img src="images/Total_Revenue_By_Gender_%26_AgeBand.jpg" width="350">
+
 - **Total Revenue By Age Band and Gender:**
 - In my analysis, the breakdown of total revenue by age band and gender provides valuable insights into the shopping trends and patterns across different demographic groups in Istanbul. By examining the total revenue generated by each age band and gender, we can identify key drivers of consumer spending and tailor marketing strategies to effectively target specific demographic segments.
 - __Young Adult Females:__ Young adult females emerge as the top contributors to total revenue, indicating their significant purchasing power and influence in the Istanbul retail landscape. This demographic group, typically aged between 20 to 39 years old, demonstrates a strong preference for fashion, beauty, and lifestyle products. Young adult females are likely to prioritize trendy clothing, cosmetics, and accessories, driving sales in these categories. 
@@ -254,8 +278,11 @@ From the analysis, i made the Key Performance findings below:
 - __Female and Male Teenagers:__ Female and male teenagers represent a smaller but still significant segment of total revenue, with preferences skewed towards fashion, technology, and entertainment. This demographic, typically aged between 13 to 19 years old, exhibits youthful and trend-conscious shopping behaviors, with interests in fashion-forward clothing, gadgets, and entertainment products. 
 
 - __Insights into Istanbul Shopping Trends and Patterns:__ The dominance of young adult females in total revenue highlights their significant influence in shaping fashion trends, beauty preferences, and lifestyle choices in the Istanbul retail landscape. Mid-aged adult females and males also play crucial roles in driving total revenue, with preferences for quality, comfort, and practicality in their shopping decisions. Young adult males exhibit a tech-savvy and fashion-forward shopping behavior, contributing to total revenue through purchases of gadgets, streetwear, and entertainment products. Old adults continue to participate in the consumer market, contributing to total revenue across various categories, albeit with more conservative preferences and spending habits. Female and male teenagers represent a dynamic and influential segment of total revenue, with interests in fashion, technology, and entertainment products, underscoring the importance of engaging with this demographic through targeted marketing strategies and engaging shopping experiences.
+<br />
+<br />
 
 - <img src="images/Total_Revenue_By_Shopping_Month.jpg" width="500">
+
 - **Total Revenue By Shopping Month Trend:**
 - In my analysis, the total revenue by shopping month trend provides insights into the variations in customer behavior and spending patterns throughout the year in Istanbul. 
 - __January (Top Revenue):__ January emerges as the month with the highest total revenue, signaling strong consumer spending at the beginning of the year. This may be attributed to factors such as New Year's sales, winter fashion purchases, and post-holiday shopping. 
@@ -271,10 +298,14 @@ From the analysis, i made the Key Performance findings below:
 - __Event-driven Spending:__ Certain months, such as January, February, and December, show higher total revenues, likely driven by events like New Year's, Valentine's Day, and holiday festivities.
 - __Back-to-School and Holiday Peaks:__ Months like October and December exhibit increased total revenues, suggesting peaks associated with back-to-school shopping and the holiday season. Retailers can optimize their strategies by offering relevant products and promotions to cater to these specific shopping occasions.
 - __Transitional Periods:__ Months like March and September, with moderate total revenues, indicate transitional periods where consumers may be adjusting their shopping priorities. 
-
+<br />
+<br />
 
 ## Visuals in Power BI Report:
 You can view and interact with this dashboard report on Istanbul Customer Shopping (2021-2023) Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiZjBmMDVmMTgtNzQ1ZC00NjAxLWI5YmItOWVhMzliMDA0YzhkIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
+<br />
+<br />
+<br />
 
 ## Recommendations On Improving Customer Shopping Experience in Istanbul To Attract More Local and international Patronage
 - __Diverse Retail Offerings:__ Ensure a diverse range of retail offerings that cater to different tastes, preferences, and budgets. This includes a mix of local brands, international retailers, artisanal shops, and specialty stores, offering a unique shopping experience for customers.
@@ -287,5 +318,7 @@ You can view and interact with this dashboard report on Istanbul Customer Shoppi
 - __Accessibility and Infrastructure:__ Improve accessibility and infrastructure within shopping areas to enhance convenience for customers. This includes providing ample parking facilities, accessible transportation options, pedestrian-friendly walkways, and signage in multiple languages to assist visitors.
 - __Safety and Security:__ Ensure a safe and secure shopping environment to instill confidence and trust among customers. Implement robust security measures, including surveillance cameras, security personnel, and emergency response protocols, to address safety concerns and create a welcoming atmosphere for shoppers.
 - __Collaboration with Tourism Industry:__ Collaborate with the tourism industry to promote shopping as a key aspect of the visitor experience in Istanbul. Partner with tour operators, hotels, and travel agencies to include shopping excursions and retail packages in tourism itineraries, showcasing Istanbul's vibrant retail scene to international visitors.
+<br />
+<br />
 
 ## Thank You For Reading Through!
