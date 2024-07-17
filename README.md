@@ -192,7 +192,7 @@ This center occupies a niche market position, appealing to more discerning shopp
 - Information regarding the breakup of total revenue by means of payment is very considerate. It shows the major trends in consumers' payment preferences and behavior in Istanbul. A deep understanding of all these variations could only help retailers and businesses better accommodate these different means of payment into daily life and enhance the overall shopping experience for consumers.
 - __Cash Payment: ₺112,832,243 (44.86%)__
 Cash is the most used method of payment, which straightaway hints that a great number of consumers in Istanbul prefer doing business using real currency. This disposition toward cash payments could be impelled by several factors:
-    - __Cultural factor:_ Cash payments give way to traditional Turkish customs and cultural norms, where use of physical currency often seeks preference in transactions.
+    - __Cultural factor:__ Cash payments give way to traditional Turkish customs and cultural norms, where use of physical currency often seeks preference in transactions.
     - __Privacy and Anonymity__: Cash transactions provide customers, particularly those seeking steady privacy in their financial transactions, a level of anonymity.
     - __Financial Control:__ Some other consumers may like to pay through cash to exercise control over their spending so they will not incur any debt since transactions are limited only to available funds.
 - __Credit Card: ₺88,077,124 35.02%__
