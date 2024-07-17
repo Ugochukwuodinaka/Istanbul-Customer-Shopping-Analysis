@@ -162,146 +162,105 @@ From the analysis, i made the Key Performance findings below:
 - __Souvenir: $635,825__
   - Souvenirs serve as tangible mementos of travel experiences and cultural heritage, appealing to tourists and locals alike. In Turkish shopping culture, there is a thriving tourism 
     industry and a rich historical heritage, contributing to the demand for unique souvenirs that capture the essence of Turkish culture. 
-- Overall, the variation in product categories contributing to the total revenue reflects the diverse preferences, interests, and cultural influences shaping the Turkish shopping landscape. 
 <br />
 <br />
 
 - <img src="images/Total_Revenue_By_Shopping_Mall.jpg" width="250">
 
 - **The Total Revenue By Shopping Mall Location:**
-- In this my analysis, the total revenue breakdown by shopping mall provides valuable insights into consumer spending patterns and shopping behaviors across different retail destinations in Istanbul. Each mall represents a unique shopping environment, catering to diverse demographics and preferences within the local market.
+- This, in my estimates, will give a category-by-category price breakdown at the shopping mall level, providing relevant information on consumer spending and behavior for these various retail destinations within the Istanbul region. Every shopping mall represents an individual shopping environment, each catering to diverse demographics and tastes of the local population.
 - __Mall of Istanbul: ₺50,872,482__
-  _ Mall of Istanbul emerges as the top revenue-generating mall, indicating its popularity among consumers and its position as a premier shopping destination in Istanbul. This may be 
-    attributed to factors such as its extensive range of retail offerings, strategic location, and robust marketing efforts.
+_Mall of Istanbul comes out to be the highest revenue outputting mall in this case, portraying high popularity for consumers in a first position for a shopping destination in Istanbul due probably to its vast retail mix or prime location or strong campaigns.
 - __Kanyon: ₺50,554,231__
-  - Kanyon follows closely behind Mall of Istanbul, showcasing its strong appeal and competitive position in the Istanbul retail landscape. Known for its innovative architectural design 
-    and upscale shopping experience, Kanyon attracts affluent shoppers seeking luxury brands and upscale amenities.
+- Kanyon outpaces the Mall of Istanbul in this ranking, underlining its strong appeal and competitive position in the retail landscape of Istanbul. With its well-known innovative architecture and upscale shopping experience, Kanyon caters more to an affluent group of shoppers in pursuit of luxury brands and upscale amenities.
 - __Metrocity: ₺37,302,787__
-  - Metrocity ranks third in total revenue, reflecting its prominence as a popular shopping destination in Istanbul. Situated in the bustling business district of Levent, Metrocity 
-    caters to a diverse clientele, including professionals, residents, and tourists, with its mix of retail, dining, and entertainment options.
-- __Metropol AVM: ₺25,379,913__
-  - Metropol AVM maintains a solid position in the market, attracting shoppers with its convenient location and diverse retail offerings. As a neighborhood shopping center, Metropol AVM 
-    serves as a community hub, catering to the needs of local residents and providing a convenient shopping experience.
+This places Metrocity third in terms of total revenue, pointing further to the fact that it is one of the most visited shopping malls in Istanbul. Within the lively business district of Levent, Metrocity combines retail, dining, and entertainment activities for a large population of working professionals, residential homes, and tourists.
+- __Metropol AVM TL: 25,379,913__
+Metropol AVM has a stronger market position as it offers a convenient location and retail mix that attracts shoppers. Since it is a neighborhood shopping center, Metropol AVM serves more as a community center, catering to the needs of local people and providing them with convenience in shopping.
 - __Istinye Park: ₺24,618,828__
-  - Istinye Park boasts a strong presence in the retail landscape, renowned for its upscale ambiance, luxury boutiques, and extensive leisure amenities. Situated in a prestigious 
-    neighborhood, Istinye Park attracts affluent shoppers seeking high-end fashion, gourmet dining, and cultural experiences.
+- Istinye Park: One of the most prominent retail properties with a classy atmosphere, hosting fashion houses of luxury brands, and various leisure services offered therein. Located in another highly desirable neighborhood, Istinye Park caters to an affluent shopper who desires high-end fashion, gourmet dining, and culture.
 - __Zorlu Centre: ₺12,901,054__
-  - Zorlu Centre occupies a niche market position, appealing to discerning shoppers with its blend of luxury brands, designer boutiques, and cutting-edge entertainment offerings. As a 
-    lifestyle destination, Zorlu Centre attracts fashion-forward consumers and trendsetters seeking unique experiences.
+This center occupies a niche market position, appealing to more discerning shoppers through its mix of luxury brands, designer boutiques, and modern entertainment. Being a lifestyle destination, Zorlu Centre draws fashionable consumer and trendsetters who seek the unique experiences it has to offer.
 - __Cevahir AVM: ₺12,645,138__
-  - Cevahir AVM rounds out the list, maintaining its status as one of Istanbul's largest and most popular shopping malls. Known for its diverse retail mix, entertainment options, and 
-    family-friendly amenities, Cevahir AVM caters to a broad demographic, including families, tourists, and budget-conscious shoppers.
+- Cevahir AVM rounds out the top five, demonstrating consistency in being both among the largest and most frequented of Istanbul's shopping malls. Well-known for its well-rounded combination of retail, entertainment, and family-friendly amenities, Cevahir AVM services a large demographic core of families with children, tourists, and shoppers on more limited budgets.
 <br />
 <br />
 
 - <img src="images/Payment_Method.jpg" width="250">
 
 - **Total Revenue By Payment Methods & an Analysis of Variations in Istanbul Shopping Behavior Based on Payment Methods:**
-- Here, the breakdown of total revenue by payment method provides valuable insights into the prevalent payment preferences and behaviors of consumers in Istanbul. A deep understanding of these variations can help retailers and businesses tailor their strategies to accommodate different payment methods and enhance the overall shopping experience for customers.
-- __Payment by Cash: ₺112,832,243 (44.86%)__
-  - Payment by cash emerges as the dominant payment method, indicating a significant proportion of consumers in Istanbul prefer to conduct transactions using physical currency. This 
-    preference for cash payments may be influenced by several factors:
-    - __Cultural Norms:__ Cash payments align with traditional Turkish customs and cultural norms, where using physical currency is often favored for transactions.
-    - __Privacy and Anonymity:__ Cash transactions provide a level of anonymity and privacy for consumers, particularly those who value discretion in their financial transactions.
-    - __Financial Control:__ Some consumers may prefer cash payments as a way to manage their spending and avoid accumulating debt, as transactions are limited to available funds.
-- __Credit Card: ₺88,077,124 (35.02%)__
-  - Credit card transactions rank second in total revenue, highlighting the popularity and widespread adoption of electronic payment methods among Istanbul consumers. The preference for 
-    credit card payments may be driven by the following factors:
-    - __Convenience:__ Credit cards offer a convenient and secure payment option, allowing consumers to make purchases without carrying physical cash.
-    - __Rewards and Benefits:__ Many credit cards offer rewards, cashback, or loyalty points, incentivizing consumers to use credit cards for their purchases and benefit from these 
-      perks.
-    - __Financial Flexibility:__ Credit cards provide consumers with the flexibility to pay for purchases over time through installment plans or revolving credit lines, enabling them to 
-      manage their finances more effectively.
+- Information regarding the breakup of total revenue by means of payment is very considerate. It shows the major trends in consumers' payment preferences and behavior in Istanbul. A deep understanding of all these variations could only help retailers and businesses better accommodate these different means of payment into daily life and enhance the overall shopping experience for consumers.
+- __Cash Payment: ₺112,832,243 (44.86%)__
+Cash is the most used method of payment, which straightaway hints that a great number of consumers in Istanbul prefer doing business using real currency. This disposition toward cash payments could be impelled by several factors:
+    - __Cultural factor:_ Cash payments give way to traditional Turkish customs and cultural norms, where use of physical currency often seeks preference in transactions.
+    - __Privacy and Anonymity__: Cash transactions provide customers, particularly those seeking steady privacy in their financial transactions, a level of anonymity.
+    - __Financial Control:__ Some other consumers may like to pay through cash to exercise control over their spending so they will not incur any debt since transactions are limited only to available funds.
+- __Credit Card: ₺88,077,124 35.02%__
+Next to cash, credit card transactions come second in general revenue, reflecting the popularity and absolute need for electronic methods of payment in Istanbul's consumer behavior. The preference for credit cards can be conditioned by the following:
+    – __Convenience__: Credit cards are an easy means of making payments for goods and services, with consumers not having to carry money on their persons.
+    - __Rewards and Benefits:__ Many credit cards come with rewards, cashback, or loyalty points; therefore, consumers are inclined to use credit cards for their purchases in order to derive these benefits.
+    - __Financial Flexibility:__ Credit cards allow consumers flexibility in terms of paying for purchases over time through an installment plan or a revolving credit line, thereby making them the better planners of their money.
 - __Debit Card: ₺50,596,427 (20.12%)__
-  - Debit card transactions represent another significant portion of total revenue, indicating the popularity of using bank-issued debit cards for payments among Istanbul consumers. The 
-    preference for debit card payments may be influenced by the following factors:
-    - __Immediate Funds Access:__ Debit cards allow consumers to access funds directly from their bank accounts, providing a convenient and efficient payment option for everyday 
-      transactions.
-    - __Security and Fraud Protection:__ Debit cards offer security features such as PIN authentication and fraud monitoring, providing consumers with peace of mind when making 
-      purchases.
-    - __Budget Management:__ Debit cards help consumers manage their finances by limiting spending to available funds, promoting responsible spending habits and avoiding debt 
-      accumulation.
-
-- __Variations in Istanbul Shopping Behavior Based on Payment Methods:__
-  - __Cash Payments:__ Consumers favoring cash payments may prioritize privacy, financial control, and adherence to cultural norms. 
-  - __Credit Card Payments:__ Consumers using credit cards may seek convenience, rewards, and financial flexibility. 
-  - __Debit Card Payments:__ Consumers opting for debit card payments value immediate funds access, security, and budget management.
+• Another large share of total revenue comes from debit card transactions, thereby evincing that debit cards issued by banks are tremendously popular with consumers in Istanbul for making payments in this city. This preference towards debit card payments could be driven by the following factors:
+    – __Direct Access to Funds:__ Debit cards give everyday customers direct access to funds from their bank accounts, thus providing an easy and efficient way of making payments.
+    - __Security and Fraud Protection:__ Debit cards involve secure PIN authentication and fraud monitoring that would encourage customers to make any purchases with a great deal of confidence.
+    - __Budget Management:__ With debit cards, consumers' expenditure will be confined to the money available in their accounts, hence fostering prudent spending behavior without the risk of falling into debt.
 <br />
 <br />
 
 - <img src="images/Shopping_By_Gender.jpg" width="250">
 
 - **Total Revenue By Gender Shopping & an Analysis of Variations in Istanbul Shopping Behavior Based on Gender:**
-- In my analysis, the breakdown of total revenue by gender provides valuable insights into the shopping behavior and preferences of consumers in Istanbul, segmented by gender. 
-- __Shopping by Females: ₺150,207,136 (59.72%)__
-  - Females emerge as the top contributors to total revenue, indicating their significant purchasing power and influence in the Istanbul retail landscape. The dominance of female 
-    shoppers may be influenced by several factors:
-    - __Fashion and Beauty Preferences:__ Females often prioritize fashion, beauty, and personal care products, driving sales in these categories. 
-    - __Lifestyle and Household Purchases:__ Female consumers may also lead in purchases related to household items, groceries, and family-oriented products, reflecting their roles as 
-      caregivers and decision-makers in household spending.
-    - __Shopping Habits and Frequency:__ Females tend to engage in shopping activities more frequently than males, making them a key demographic for retailers to target with promotional 
-      offers, loyalty programs, and personalized marketing campaigns.
+- In my analysis, is the distribution of total revenue based on how much is contributed by the different genders, thus giving insights into the shopping behavior and preferences of consumers in Istanbul: 
+- __Females: ₺150,207,136 (59.72%)__
+  - The major contributors in this instance, females, clearly indicate the great purchasing power and influence that females have in the retail landscape of Istanbul. The reasons that can justify their great influence can be attributed to:
+    - __Fashion and Beauty Preferences:__ Women possess an aspiration towards fashion, beauty, and personal care leading to higher sales in such categories.
+    _ __Lifestyle and Household Purchases:__ Besides, the female consumer might also be the lead in purchasing household items, groceries, and other family-oriented products, reflecting their caregiving role and decision-making in household spending.
+    - __Shopping Activity and Frequency:__ Shopping is more engaging for females than males. Therefore, these are the prime customers for your retail business, where you play with promotional offers, loyalty schemes, and targeted marketing campaign strategies to woo them.
 
 - __Shopping by Males: ₺150,596,427 (40.28%)__
-  - Males represent a significant portion of total revenue, although slightly lower than females, indicating their importance as a consumer segment in the Istanbul market. The shopping 
-    behavior of males may be influenced by various factors:
-    - __Technology and Electronics:__ Males often show a preference for technology gadgets, electronics, and gaming products, driving sales in these categories. Retailers can cater to 
-      male consumers by offering a diverse selection of tech products and accessories.
-    - __Sports and Leisure:__ Male consumers may also lead in purchases related to sports equipment, outdoor gear, and leisure activities, reflecting their interests in physical fitness 
-      and recreational pursuits.
-    - __Shopping Preferences and Convenience:__ Males may exhibit different shopping preferences compared to females, favoring efficiency, convenience, and functionality in their 
-      purchasing decisions.
-      
-- __Variations in Istanbul Shopping Behavior Based on Gender:__
-  - __Fashion and Beauty:__ Females may show a stronger preference for fashion apparel, cosmetics, and beauty products, while males may prioritize functional and practical items.
-  - __Technology and Electronics:__ Males may demonstrate a higher interest in technology gadgets, electronic devices, and gaming accessories, while females may focus on other product categories.
-  - __Household and Lifestyle:__ Females may lead in purchases related to household items, groceries, and family-oriented products, reflecting their roles as caregivers and household decision-makers.
+  – Males reflect a high percentage of total sales, though below the females by a small extent, hence an important consumer segment in the Istanbul Market. Shopping Patterns for Male's Candidates may be influenced by:
+    - __Technology and Electronics:__ Men are real gadget lovers, electronic enthusiasts, and game lovers as well. Usually, this results in remarkable sales in the category. Retailers can always capture the hearts of male consumers by making a good range of technical products and accessories available all the time.
+    - __Sports and Leisure:__ Men consumers may show dominance in buying sports equipment, outdoor, and leisure use gear. This would reflect their interest in physical fitness and recreation.
+    - __Shopping Preferences and Convenience:__ Men may have different shopping appetites as compared to women, believing in the doctrine of simplicity, worth, and convenience in businesses.
 <br />
 <br />
 
 - <img src="images/Total_Revenue_By_AgeBand_%26_Product_Category.jpg" width="500">
 
 - **Total Revenue By Age Band and Product Category:**
-- In this analysis, the breakdown of total revenue by age band and product category provides valuable insights into the shopping behaviors and preferences of different demographic groups in Istanbul. By examining correlations between demographic factors such as age band, gender, and product category in relation to total revenue, we can gain a deeper understanding of consumer trends and tailor marketing strategies accordingly.
-- __Young Adults:__ Young adults emerge as significant contributors to total revenue, particularly in categories such as clothing, shoes, and technology. This demographic group, typically aged between 20 to 39 years old, represents a key market segment with diverse preferences and purchasing power. Young adults are likely to prioritize fashion trends, technological gadgets, and lifestyle products, driving sales in these categories.
-- __Mid-aged Adults:__ Mid-aged adults follow closely behind young adults in total revenue generation, with similar preferences for clothing, shoes, and technology products. This demographic, typically aged between 40 to 59 years old, represents a stable and affluent consumer segment with established purchasing habits. Mid-aged adults may prioritize quality, comfort, and practicality in their shopping choices, leading to consistent sales in categories such as apparel and footwear. 
-- __Old Adults:__ Old adults contribute to total revenue across various product categories, albeit at a lower level compared to younger demographic groups. This demographic, typically aged 60 years old and above, may exhibit more conservative shopping behaviors and preferences. Old adults may prioritize comfort, durability, and value for money in their purchasing decisions, leading to steady sales in categories such as clothing and shoes. 
-- __Teenagers:__ Teenagers represent a smaller but still significant segment of total revenue, with preferences skewed towards clothing, shoes, and technology. This demographic, typically aged between 13 to 19 years old, represents a youthful and trend-conscious consumer group with disposable income from allowances or part-time jobs. Teenagers are likely to gravitate towards fashion-forward clothing, trendy footwear, and the latest tech gadgets, driving sales in these categories. 
+- The analysis thus allows one to disaggregate total revenues by age band and product category, thus capturing the diverse shopping habits and tastes of many demographics that make up the sprawling metropolis of Istanbul. It is then possible to gain insight into consumer trends by looking at the various correlation channels between demographic factors—age-band, gender, and product category on total revenues, and understand how best to adapt marketing strategies accordingly.
+- __Young Adults:__ Young adults form a large proportion of contribution to total revenue, particularly across categories such as clothing, shoes, and technology. Typically aged 20 to 39 years, this demographic group makes up one key segment with tastes and spending powers that vary greatly. From the part of young adults, trendsetting fashion and gadgets in tech and lifestyle products will call the shots on sales performance in the respective categories.
+- __Middle-aged Adults:__ Middle-aged adults are the runners-up in generating the most money, and they have similar preferences: clothes, shoes, and technology products. Indeed, this age segment comprises a more stable and wealthy stratum with established purchasing habits. Quality, comfort, and practicality will, therefore, be highly regarded by middle-aged adults in the choice of goods to buy, hence regularly earning sales in apparel and footwear.
+- __Old Adults:__ This segment normally includes 60-plus-year-old people who generate cash in most categories but at a comparatively lower spending level than the young adult demographics. It can be perceived that old adults are more conservative in their shopping behaviors and tendencies. Comfort, durability, and value for money are the premier factors in their purchasing behavior, which translates to stable sales in categories like clothing and shoes.
+- __Teenagers:__ Adolescents are a smaller but equally important percentage of total sales. These age groups are most keenly interested in purchasing clothes, shoes, and technology. This demographic generally includes people from ages 13 through 19 years, which is a young and trend-oriented consumer crowd with money to spend via allowances or part-time jobs. Therefore, teens will be interested in fashion clothes, shoes, and the latest gadgets in technology, hence pushing sales in such categories.
 <br />
 <br />
 
 - <img src="images/Total_Revenue_By_Gender_%26_AgeBand.jpg" width="350">
 
 - **Total Revenue By Age Band and Gender:**
-- In my analysis, the breakdown of total revenue by age band and gender provides valuable insights into the shopping trends and patterns across different demographic groups in Istanbul. By examining the total revenue generated by each age band and gender, we can identify key drivers of consumer spending and tailor marketing strategies to effectively target specific demographic segments.
-- __Young Adult Females:__ Young adult females emerge as the top contributors to total revenue, indicating their significant purchasing power and influence in the Istanbul retail landscape. This demographic group, typically aged between 20 to 39 years old, demonstrates a strong preference for fashion, beauty, and lifestyle products. Young adult females are likely to prioritize trendy clothing, cosmetics, and accessories, driving sales in these categories. 
-- __Mid-aged Adult Females:__ Mid-aged adult females closely follow young adult females in total revenue generation, reflecting their substantial spending power and diverse shopping preferences. This demographic, typically aged between 40 to 59 years old, exhibits a more mature and sophisticated shopping behavior, with a focus on quality, comfort, and practicality. Mid-aged adult females may prioritize wardrobe essentials, skincare products, and home goods, driving sales in these categories. 
-- __Mid-aged Adult Males:__ Mid-aged adult males contribute significantly to total revenue, although slightly lower than their female counterparts. This demographic, typically aged between 40 to 59 years old, demonstrates preferences for technology gadgets, sports equipment, and practical lifestyle products. Mid-aged adult males may prioritize functionality, performance, and value for money in their purchasing decisions, leading to consistent sales in these categories. 
-- __Young Adult Males:__ Young adult males closely follow mid-aged adult males in total revenue generation, reflecting their purchasing power and preferences for tech-savvy products and fashion trends. This demographic, typically aged between 20 to 39 years old, exhibits a youthful and adventurous shopping behavior, with interests in the latest gadgets, streetwear fashion, and experiential purchases. Young adult males may prioritize gadgets, streetwear, and entertainment products, driving sales in these categories. 
-- __Old Adult Females and Males:__ Old adult females and males contribute to total revenue across various product categories, reflecting their continued participation in the consumer market. This demographic, typically aged 60 years old and above, may exhibit more conservative shopping behaviors and preferences. Old adults may prioritize comfort, durability, and practicality in their purchasing decisions, leading to steady sales in categories such as clothing, footwear, and household essentials. 
-- __Female and Male Teenagers:__ Female and male teenagers represent a smaller but still significant segment of total revenue, with preferences skewed towards fashion, technology, and entertainment. This demographic, typically aged between 13 to 19 years old, exhibits youthful and trend-conscious shopping behaviors, with interests in fashion-forward clothing, gadgets, and entertainment products. 
-
-- __Insights into Istanbul Shopping Trends and Patterns:__ The dominance of young adult females in total revenue highlights their significant influence in shaping fashion trends, beauty preferences, and lifestyle choices in the Istanbul retail landscape. Mid-aged adult females and males also play crucial roles in driving total revenue, with preferences for quality, comfort, and practicality in their shopping decisions. Young adult males exhibit a tech-savvy and fashion-forward shopping behavior, contributing to total revenue through purchases of gadgets, streetwear, and entertainment products. Old adults continue to participate in the consumer market, contributing to total revenue across various categories, albeit with more conservative preferences and spending habits. Female and male teenagers represent a dynamic and influential segment of total revenue, with interests in fashion, technology, and entertainment products, underscoring the importance of engaging with this demographic through targeted marketing strategies and engaging shopping experiences.
+- The findings also illustrate the added value of the information contained within the analysis that details out how the revenues are bifurcated by different age brackets and genders, outlining shopping patterns within these diverse demographic segments of Istanbul. We will also discuss which demographic segments have contributed most to consumer spending and how marketing strategies might best be focused towards those segments in a more directed fashion.
+- __Females Aged 20-39 Years,__ Young women are integrated as the dominative increment of sum revenues, attesting to their buying power and accordingly, their effect on a retail setting in Istanbul. This age group typically consists of women who are 20-39 years of age. More holistic preferences are presented as clear potential, belonging to an age segment that presumably will buy fashionable clothing, beautifying products, and lifestyle items. Young women from 20 to 39 years old would probably spend on trendy clothes, cosmetics, and all the accessories associated with it.
+- __Mid-aged Adult Females:__ Typically, these are the second-largest category that generates the most total revenue. This indicates their high purchasing power along with diversified shopping tastes. Generally, this group encompasses women between 40 and 59 years of age. Women belonging to this group portray mature and sophisticated purchasing behavior oriented towards quality, comfort, and practicality. For example, mid-aged adult females would prefer buying wardrobes, skincare products, and home goods that drive sales in these categories.
+- __Mid-aged Adult Males:__ Mid-aged adult males too generate significant gross revenue but slightly less compared to the adult females. This target group comprising men from 40 to 59 years of age enjoys Technology gizmos, Sports supplies, and useful Lifestyle accessories as products the most. Mid-aged adult males are very particular about usefulness, efficacy, and price-worth, quality; hence, this segment is sure to see no decline in sales over time.
+- __Young Adult Males:__ Young adult males are the second in line in total revenue generated after mid-aged adult males; this proves that they are responsive to tech-savvy gadgets and fashion. Typically within the age bracket of between 20 to 39 years, this consumer class forms a shopping behavior characterized by youthfulness and exuberance, having interests in the latest gadgetry, streetwear fashion, and experience purchases. Young adult males may be really into gadgets, streetwear, and entertainment products.
+- __Old Adult Females and Males:__ Old adult females and males contribute towards the overall revenues from all categories of products due to the fact that old adults are never out of the consumer market. Their conservative approach to shopping and product likeness may be stronger for the age bracket of 60 years and above. The old adult persons look for comfort, durability as well as convenience based products, hence reflecting stable outputs into categories like clothing, footwear, and home utility products.
+- __Female and Male Teenagers:__ Female and male teenagers form a relatively small yet, at the same time, a significant portion of the overall revenue, where interests are focused on fashion, technology, and entertainment. A lot of young teen behavior, which identifies with this age group between 13 and 19 years, characterizes this section by purchasing patterns that are in fashion in clothes, gadgets, and entertainment products.
 <br />
 <br />
 
 - <img src="images/Total_Revenue_By_Shopping_Month.jpg" width="500">
 
 - **Total Revenue By Shopping Month Trend:**
-- In my analysis, the total revenue by shopping month trend provides insights into the variations in customer behavior and spending patterns throughout the year in Istanbul. 
-- __January (Top Revenue):__ January emerges as the month with the highest total revenue, signaling strong consumer spending at the beginning of the year. This may be attributed to factors such as New Year's sales, winter fashion purchases, and post-holiday shopping. 
-- __February:__ February follows closely behind January in total revenue, indicating sustained consumer interest and spending momentum. Valentine's Day promotions and winter-related purchases may contribute to the continued high revenue in February. 
-- __March:__ March sees a slight decrease in total revenue compared to the previous months. This may be influenced by factors such as the transition from winter to spring, with consumers adjusting their shopping priorities. 
-- __October:__ October experiences a notable increase in total revenue, possibly due to factors such as fall fashion launches, back-to-school shopping, and early preparations for the upcoming holiday season. 
-- __July, May, and December:__ July, May, and December show relatively higher total revenues, indicating potential seasonal peaks and specific events driving consumer spending. July may see increased sales due to summer vacations and seasonal activities. May may witness pre-summer and Mother's Day-related purchases. December's higher revenue is expected, given the holiday season and festive shopping.
-- __August,June, and September:__ August, June, and September show moderate total revenues, suggesting a relatively stable shopping behavior during these months.
-- __April and November (Lower Revenue):__ April and November exhibit lower total revenues, possibly indicating quieter periods in the shopping calendar.
-  
-- __Insights into Istanbul Shopping Customer Behavior Based on Total Revenue by Shopping Month:__
-- __Seasonal Changes:__ The variations in total revenue highlight the impact of seasonal changes on consumer spending patterns. 
-- __Event-driven Spending:__ Certain months, such as January, February, and December, show higher total revenues, likely driven by events like New Year's, Valentine's Day, and holiday festivities.
-- __Back-to-School and Holiday Peaks:__ Months like October and December exhibit increased total revenues, suggesting peaks associated with back-to-school shopping and the holiday season. Retailers can optimize their strategies by offering relevant products and promotions to cater to these specific shopping occasions.
-- __Transitional Periods:__ Months like March and September, with moderate total revenues, indicate transitional periods where consumers may be adjusting their shopping priorities. 
+- From my analysis, the total revenue by shopping month trend clearly shows changes in customer behavior and spending patterns across the year in Istanbul.
+- __January—Highest Revenue:__ On this measure, January will turn out to be the month producing the highest total revenue; it indicates that consumer spending at the beginning of the year is very strong. This might have been due to New Year sales, winter fashion item purchases, and post-holiday shopping.
+- __February:__ February is very close to January in terms of total revenue, capturing strong interest and momentum in consumer spending. This may be heavily influenced by Valentine's Day promotions and winter-related purchases.
+- __March:__ March depicts a slight fall compared to January and February. This may be due to the fact that winter would be transitioning into spring, and thus consumer shopping priorities change.
+- __October:__ It is during October that the total revenue surges exponentially, likely with the impact of fall fashion launches going on, back-to-school shopping, and probably early shopping for the upcoming holiday season.
+- __July, May, and December:__ July, May, and December show slightly higher total revenues, which could indicate seasonal peaks and particular events that drive consumer spending. July can anticipate increased sales from summer vacations and seasonal activities. Some pre-summer and Mother's Day-related purchasing occurs in May. The higher revenue for December can be attributed to the fact that it is the month of holidays and festive shopping.
+- __August, June, and September:__ It has moderate total sales in August, June, and September, keeping the shopping behavior almost stable.
+- __April and November (Lower Revenue):__ April and November revenues reflect lower total revenues, thus indicating a period when the shopping calendar is quieter.
 <br />
 <br />
 
@@ -312,17 +271,18 @@ You can view and interact with this dashboard report on Istanbul Customer Shoppi
 <br />
 
 ## Recommendations On Improving Customer Shopping Experience in Istanbul To Attract More Local and international Patronage
-- __Diverse Retail Offerings:__ Ensure a diverse range of retail offerings that cater to different tastes, preferences, and budgets. This includes a mix of local brands, international retailers, artisanal shops, and specialty stores, offering a unique shopping experience for customers.
-- __Enhanced Customer Service:__ Focus on providing exceptional customer service to create positive shopping experiences. Train staff to be knowledgeable, helpful, and attentive to customers' needs. Offer multilingual support to accommodate international visitors and ensure clear communication.
-- __Innovative Technology:__ Integrate innovative technology solutions to streamline the shopping process and enhance convenience. Implement mobile payment options, self-checkout kiosks, and digital signage to improve efficiency and ease of transaction for customers.
-- __Interactive Experiences:__ Create interactive and engaging experiences within shopping malls and retail districts. This can include interactive displays, virtual reality experiences, and augmented reality features that offer immersive shopping experiences and attract both local and international visitors.
-- __Cultural Immersion:__ Showcase Istanbul's rich cultural heritage and traditions within shopping environments. Incorporate elements of Turkish culture, such as music, art, and cuisine, into retail spaces to create a sense of authenticity and appeal to international tourists seeking cultural experiences.
-- __Events and Entertainment:__ Organize events, performances, and entertainment activities within shopping areas to attract visitors and enhance the overall shopping experience. This can include fashion shows, live music performances, art exhibitions, and culinary festivals that add vibrancy and excitement to the shopping environment.
-- __Promotional Campaigns:__ Develop targeted promotional campaigns to attract both local residents and international tourists. Offer discounts, promotions, and special offers during key shopping seasons, holidays, and tourism periods to incentivize spending and increase foot traffic.
-- __Accessibility and Infrastructure:__ Improve accessibility and infrastructure within shopping areas to enhance convenience for customers. This includes providing ample parking facilities, accessible transportation options, pedestrian-friendly walkways, and signage in multiple languages to assist visitors.
-- __Safety and Security:__ Ensure a safe and secure shopping environment to instill confidence and trust among customers. Implement robust security measures, including surveillance cameras, security personnel, and emergency response protocols, to address safety concerns and create a welcoming atmosphere for shoppers.
-- __Collaboration with Tourism Industry:__ Collaborate with the tourism industry to promote shopping as a key aspect of the visitor experience in Istanbul. Partner with tour operators, hotels, and travel agencies to include shopping excursions and retail packages in tourism itineraries, showcasing Istanbul's vibrant retail scene to international visitors.
+- __Diversify Retail Offerings:__ There would be a balance of retail goods and services with a view to offering choices for a myriad of tastes, preferences, and budgets. The collection will consist of local and international retailers, artisan shops, and specialty stores meant to create experiences in shopping.
+- __Better Customer Service:__ Come up with exemplary customer service to leave an everlasting shopping experience in the minds of customers. As a matter of fact, personnel should be quite well-informed, proactive and responsive to the requirements of every customer. There is also a multilingual aspect that serves international tourists in the most effective way of communication.
+- __Use of Innovative Technologies:__ Implement new technology solutions to simplify and ease shopping, distracting attention from mobile payment options, self-service kiosks, and digital signing in order to make customer transactions faster and easier.
+- __Interactive Experiences:__ Develop interactive experiences across shopping malls and retail precincts. These can include interactive window displays, virtual reality, augmented reality, and vivid shopping experiences that at the same time get visitors from both local and international circuits.
+- __Cultural Immersion:__ Use a lot of the rich culture and tradition of Istanbul in shopping environments. From music down to its art and food, instill some dose of Turkish culture into retail settings, granting an air of authenticity that will beguile international tourists in search of yet a wider cultural experience.
+- __Events and Entertainment:__ Organize events, performances, and entertainment activities within the shopping areas for better attraction of visitors to improve their shopping experience; this shall be in terms of fashion shows, live musical and art performances, art exhibitions, or even food festivals—activities that make the shopping environment lively and worthwhile.
+- __Promotional Campaigns:__ Promotional plans and campaigns that appeal to the local population as well as international tourists, allowing for discounts, promotions, and special offers during specified shopping seasons, holidays, and tourism seasons to encourage spending and enhance footfall.
+- __Accessibility and Infrastructure:__ To facilitate the access and infrastructure of shopping areas to shoppers by providing ample parking facilities, easily accessible transport, friendly walkways for pedestrians, and signing in languages that make getting around easy.
+- __Safeguarding and Security:__ Provide an environment of safe and reliable buying under which an atmosphere of trust and confidence should be installed in the minds of customers. The worried security measures shall be implemented, which would include cameras, security guards, and crisis management systems in case of any emergencies to ensure customer safety and friendly hassle-free shopping.
+- __Collaboration in Tourism Industry:__ Meet with the tourism sector to have shopping featured as one of the sure targets for enhancing the experience of a visitor to Istanbul. Partnering with tour operators, hotels, and agencies of travel to get shopping excursions included within tourism itineraries and retail packages while touting Istanbul
 <br />
 <br />
 
 ## Thank You For Reading Through!
+![](images/Thank_you.jpg)
