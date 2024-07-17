@@ -39,18 +39,19 @@ Here's a data dictionary of the dataset explaining the table fields in details:
 <br />
 
 ## Objectives:
-- Gain insights into the total revenue by product categories.
-- Analyze variations in shopping behavior based on shopping mall locations.
-- Gain insights into the total number of customers across shopping malls.
-- Analyze variations in shopping behavior based on payment methods.
-- Analyze variations in shopping behavior based on shopping by gender.
-- Explore correlations between demographic factors such as age band, gender, and product category as related to total revenue.
-- Gain insights into shopping trends and patterns across different age groups, genders, and total revenue generated.
-- Analyze variations in shopping behavior based on total revenue by shopping month.
+- Understand the leverage effect of total revenue by product categories.
+- Analyze changes in shopping behavior depending on locations across different shopping malls.
+- Understand how many customers there are for all shopping malls combined.
+- Analyze changes in shopping behavior depending on different methods of payment.
+- Analyze changes in shopping behavior depending on shopping by gender.
+- Understand the relationships between demographic factors like age band, gender, and product category on total revenue.
+- Understand trends and patterns in buying across age groups, genders, and the total amount spent.
+- Evaluate the in-store behavior differences by the total amount spent by shopping month.
 
 
 ## Expected Outcomes:
-Through meticulous analysis and interpretation of the dataset, the project anticipates generating valuable insights into Istanbul's dynamic shopping ecosystem. These insights can inform various stakeholders, including retailers, marketers, and urban planners, enabling them to make data-driven decisions to enhance customer experiences, optimize inventory management, and drive business growth.
+The projects goal is to offer an understanding of how shopping trends, in Istanbul're evolving using the dataset. These insights will help in making choices that improve the shopping experience for customers drive business expansion and enhance inventory management efficiency. This data will be valuable to stakeholders such, as retailers, marketers and city planners.
+
 <br />
 <br />
 
@@ -90,7 +91,7 @@ Through meticulous analysis and interpretation of the dataset, the project antic
 <br />
 
 **Raw Data Screenshot**
-- Below a screenshot of a part of the raw data in .csv file format. You can preview the dataset [here](customer_shopping_data.csv).
+- Below is a screenshot of a part of the raw data in .csv file format. You can preview the dataset [here](customer_shopping_data.csv).
 
 Raw Data Screenshot                                                               |                       
 :---------------------------------------------------------------------------------:|
@@ -98,7 +99,7 @@ Raw Data Screenshot                                                             
 <br />
 
 **Final MS Sql Server query screenshot**
-- Below is a screenshot of a part of the cleaned data in MS Sql. You can access the complete Power BI project document [here](ISTANBUL%20CUSTOMER%20SHOPPING%20ANALYSIS%20(2021%20-%202023).pbix).
+- Below is a screenshot of a part of the cleaned data in MS Sql. 
 
 Sql Query Screenshot                                                               |                       
 :---------------------------------------------------------------------------------:|
@@ -109,7 +110,7 @@ You can preview the MS Sql Server query file [here](Istanbul_Customer_Shopping_P
 <br />
 
 ## Data Modelling
-No data modelling was required since we need just a table for the analysis.
+No data modelling was required since we had just one table for this analysis.
 <br />
 <br />
 
