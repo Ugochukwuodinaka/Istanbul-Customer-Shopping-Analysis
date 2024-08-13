@@ -78,14 +78,14 @@ The projects goal is to offer an understanding of how shopping trends, in Istanb
 <br />
 
 ### Data Cleaning, Transformation and Loading using MS Sql Server:
-1. I transformed all column data types to the right data types.
-2. I added a new column __"total_revenue"__ which was derived from multiplying the values in the __"price"__ column by the values in the __"quantity"__ column.
-3. I added a new column __"age_band"__ by extracting the data in the __"age"__ column and grouped them (Children, Teenager, Young Adult, Mid-aged Adult, and Old Adult) using the "Update" and "Set query".
-4. Duplicated the __"invoice_date"__ column into __2__ columns, renamed the 2 columns __"new_invoice_date1"__ and __"new_invoice_date2"__.
-5. Splitted the __"new_invoice_date1"__ and extracted only the __"Year"__ using the substring and charindex query, added a new column __"invoice_year"__ with an int data type and extracted the __"new_invoice_data1"__ column data into it, dropped the __"new_invoice_data1"__ column from the table.
-6. Splitted the __"new_invoice_date2"__ and extracted only the __"Month"__ using the substring and charindex query, added a new column __"invoice_month"__ with an int data type and extracted the __"new_invoice_data2"__ column data into it, dropped the __"new_invoice_data2"__ column from the table.
-7. Created a new column __"invoice_month_name"__ which extracts the month values from the __"invoice_month"__ column and group them into: "January - December", dropped the __"invoice_month"__ column, renamed the __"invoice_month_name"__ column to "__invoice_month"__.
-8. Made sure there was no empty column cells.
+1. Made sure that all the data types of the tables in the dataset are of the right data type.
+2. I added a new column __"total_revenue"__ which was derived from multiplying the data in the __"price"__ column by the data in the __"quantity"__ column.
+3. I added a new column __"age_band"__ by extracting the data in the __"age"__ column and grouped them (Children, Teenager, Young Adult, Mid-aged Adult, and Old Adult) using the _"Update"_ and _"Set query"_.
+4. Duplicated the __"invoice_date"__ column into 2 columns, renamed the 2 columns to __"new_invoice_date1"__ and __"new_invoice_date2"__.
+5. Splitted the __"new_invoice_date1"__ and extracted only the __"Year"__, added a new column __"invoice_year"__ with an int data type and extracted the __"new_invoice_data1"__ column data into it, then dropped the __"new_invoice_data1"__ column from the table.
+6. Splitted the __"new_invoice_date2"__ and extracted only the __"Month"__, added a new column __"invoice_month"__ with an int data type and extracted the __"new_invoice_data2"__ column data into it, dropped the __"new_invoice_data2"__ column from the table.
+7. Created a new column __"invoice_month_name"__ which extracts the month values from the __"invoice_month"__ column and group them into: _January - December_, dropped the __"invoice_month"__ column, renamed the __"invoice_month_name"__ column to __"invoice_month"__.
+
 <br />
 
 **Raw Data Screenshot**
