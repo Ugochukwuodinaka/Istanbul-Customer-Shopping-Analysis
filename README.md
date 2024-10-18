@@ -263,7 +263,7 @@ Next to cash, credit card transactions come second in general revenue, reflectin
 <br />
 
 ## Visuals in Power BI:
-You can view and interact with this dashboard on Istanbul Customer Shopping (2021-2023) Analysis [here](https://app.powerbi.com/groups/e19a20c9-410b-4577-b767-14a2e0d037c8/reports/00675613-56f9-44a2-b3c8-e226a014836e/ReportSection?experience=power-bi).
+You can view and interact with this dashboard on Istanbul Customer Shopping (2021-2023) Analysis [here](https://app.powerbi.com/view?r=eyJrIjoiZjBmMDVmMTgtNzQ1ZC00NjAxLWI5YmItOWVhMzliMDA0YzhkIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
 <br />
 <br />
 <br />
